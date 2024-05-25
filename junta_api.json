@@ -8,7 +8,7 @@
 	"modpackName": "CurrentPack.zip",
 	
     "launcher_properties": {
-        "launcherVersion": "1.1.1",
+        "launcherVersion": "1.0",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_modpack/main/la%20junta%20back.jpg",
         "serverPrice": 70000,
         "moneyCollected": 70000,
