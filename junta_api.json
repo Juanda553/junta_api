@@ -11,7 +11,7 @@
         "launcherVersion": "1.1.1",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_modpack/main/la%20junta%20back.jpg",
         "serverPrice": 70000,
-        "moneyCollected": 60000,
+        "moneyCollected": 70000,
 
         "colores": {
             "background1": "#293328",
@@ -64,6 +64,10 @@
             {
                 "name": "lFake",
                 "paid": "5.000"
+            },
+            {
+                "name": "Cierragamer",
+                "paid": "15.000"
             }
         ],
 
