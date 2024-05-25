@@ -16,7 +16,11 @@
             "background1": "#293328",
             "background2": "#364335",
             "button1": "#556954",
+<<<<<<< HEAD
             "button2": "#ffffff",
+=======
+            "button2": "",
+>>>>>>> 4dd7b3e2443bd52e39ae1dfeb43125b26ee916a8
 			"buttonPlay": "#CAC86F",
             "fontPlay": "#ffffff",
             "font1": "#ffffff",
@@ -100,4 +104,8 @@
             "Chucho x LilBerry"
         ]
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4dd7b3e2443bd52e39ae1dfeb43125b26ee916a8
