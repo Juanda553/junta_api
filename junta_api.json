@@ -15,11 +15,11 @@
         "colores": {
             "background1": "#0d1a0c",
             "background2": "#132612",
-            "button1": "#556954",
-            "button2": "#808080",
-			"buttonPlay": "#CAC86F",
+            "button1": "#ffffff",
+            "button2": "#ffffff",
+			"buttonPlay": "#ffffff",
             "fontPlay": "#ffffff",
-            "font1": "#ffffff",
+            "font1": "#000000",
             "font2": "#808080"
         },
 
