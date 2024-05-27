@@ -2,10 +2,9 @@
     "juntaName": "La Junta 3",
     "juntaVersion": "3.2.1",
     "forgeVersion": "1.18.2-forge-40.2.14",
-    "icon": "https://raw.githubusercontent.com/Juanda553/junta_modpack/main/junta3_icon_v2.png",
+    "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 	"modpackFirstInstall": "",
-    "modPackUpdate": "https://github.com/Juanda553/junta_modpack/releases/download/Junta_3_2_1/junta_pack_3_2_1.zip",
-	"modpackName": "CurrentPack.zip",
+    "modPackUpdate": "",
 	
     "launcher_properties": {
         "launcherVersion": "1.0",
@@ -26,7 +25,7 @@
 
         "event": {
             "title": "EVENTO DE REAPERTURA!",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_modpack/main/la%20junta%20back.jpg",
+            "img": "",
             "desc": "Estamos de regreso!",
             "date": "09/06/2024 - 3:00 p.m."
         },
@@ -34,7 +33,7 @@
         "news": [
             {
                 "title": "REAPERTURA!",
-                "img": "https://raw.githubusercontent.com/Juanda553/junta_modpack/main/la%20junta%20back.jpg",
+                "img": "",
                 "desc": "Estamos de regreso!",
                 "date" : "19/05/2024 - 3:17 p.m."
             }
@@ -42,32 +41,32 @@
 
         "partners": [
             {
-                "name": "TaysonXs",
-                "paid": "10.000"
-            },
-            {
-                "name": "ThaChan15",
-                "paid": "10.000"
-            },
-            {
-                "name": "PipeZv",
-                "paid": "3.000"
-            },
-            {
-                "name": "Anderson",
-                "paid": "4.300"
-            },
-            {
                 "name": "Muelaepica",
-                "paid": "30.000"
-            },
-            {
-                "name": "lFake",
-                "paid": "5.000"
+                "paid": "$30.000"
             },
             {
                 "name": "Cierragamer",
-                "paid": "15.000"
+                "paid": "$15.000"
+            },
+            {
+                "name": "TheChan15",
+                "paid": "$10.000"
+            },
+            {
+                "name": "TaysonXs",
+                "paid": "$10.000"
+            },
+            {
+                "name": "lFaker",
+                "paid": "$5.000"
+            },
+            {
+                "name": "Anderson",
+                "paid": "$4.300"
+            },
+            {
+                "name": "PipeZv",
+                "paid": "$3.000"
             }
         ],
 
