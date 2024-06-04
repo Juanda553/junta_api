@@ -9,7 +9,7 @@
 	"dotMine": ".junta3",
 	
     "launcher_properties": {
-        "launcherVersion": "2.0.0",
+        "launcherVersion": "1.0.0",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
         "serverPrice": 70000,
         "moneyCollected": 70000,
