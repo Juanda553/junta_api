@@ -1,32 +1,34 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.2.1",
-    "forgeVersion": "1.18.2-forge-40.2.14",
+    "juntaVersion": "3.3.0",
+    "forgeVersion": "1.19.2-forge-43.3.13",
+	"indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 	"modpackFirstInstall": "",
-    "modPackUpdate": "",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/Junta_3_2_1/junta_pack_3_2_1.zip",
+	"dotMine": ".junta3",
 	
     "launcher_properties": {
-        "launcherVersion": "1.0",
+        "launcherVersion": "2.0.0",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
         "serverPrice": 70000,
         "moneyCollected": 70000,
 
         "colores": {
-            "background1": "#0d1a0c",
-            "background2": "#132612",
-            "button1": "#ffffff",
-            "button2": "#ffffff",
-			"buttonPlay": "#ffffff",
-            "fontPlay": "#ffffff",
-            "font1": "#000000",
-            "font2": "#808080"
+            "background1": "#10200F",
+            "background2": "#21401E",
+            "button1": "#81BF7C",
+            "button2": "#809F7E",
+			"buttonPlay": "#72df6a",
+            "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
+            "font1": "#EFFFEE",
+            "font2": "#21401E"
         },
 
         "event": {
             "title": "EVENTO DE REAPERTURA!",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/event.jpg",
-            "desc": "Estamos de regreso!",
+            "desc": "Volvemos a nuestro mundo! O algo así parece, hay algo extraño, pero no logro saber que es, espero nada salga mal... \n\nOh no.",
             "date": "09/06/2024 - 3:00 p.m."
         },
 
@@ -70,38 +72,6 @@
             }
         ],
 
-        "splashes": [
-            "La monda mia de alto calibre",
-            "Tomese un Aguila, busquese una prepago, y a culiarrrr",
-            "A-marte mas no pude",
-            "Con mucho gusto",
-            "Con Dorian?",
-            "Quien monda es Dorian?",
-            "Vaya con Y de Yuca",
-            "Soplamonda",
-            "El Bola",
-            "Eche??",
-            "Uuum ya",
-            "Sisas que?",
-            "nojeñol",
-            "DEP Diomedes Diaz",
-            "22/12/2013",
-            "Juanda cachon",
-            "Vivan las tetas",
-            "El unico vicio permitido son las tetas",
-            "Hola Crush",
-            "Chupame las bolas",
-            "PIPE PAGA",
-            "Bien catalino",
-            "Se las dejo ahí",
-            "Entiendo.",
-            "So",
-            "Que",
-            "Paguen el servidor",
-            "Limon",
-            "Entren al canal de Whatsapp",
-            "Tengo hambre, paguenme el trabajo porfa",
-            "Chucho x LilBerry"
-        ]
+        "splashes": [0]
     }
 }
