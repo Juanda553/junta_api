@@ -5,15 +5,15 @@
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/3.3.0/modpack_3_3_0.zip",
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.3.03/update_3.3.03.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/3.3.1/junta3_3_1.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.3.1/update_3_3_1.zip",
     "dotMine": ".junta3",
     
     "launcher_properties": {
-        "launcherVersion": "2.0.1",
+        "launcherVersion": "2.0.2",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header_lajunta2lobby.jpg",
-        "serverPrice": 70000,
-        "moneyCollected": 70000,
+        "serverPrice": 120000,
+        "moneyCollected": 0,
  
         "colores": {
             "background1": "#CC7A2C",
@@ -27,10 +27,10 @@
         },
  
         "event": {
-            "title": "?? ??????",
+            "title": "Colapso Día 1",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/event.jpg",
-            "desc": "Evento.",
-            "date": "13/06/2024 - 3:30 p.m."
+            "desc": "Parece que hay varios humanos corruptos cerca de la grieta donde anteriormente estaba La Junta. Debemos construir una maquina del tiempo cerca del mismo punto donde se originó todo, pero primero debemos eliminar esos enemigos para que no molesten.",
+            "date": "15/06/2024"
         },
  
         "news": [
@@ -73,6 +73,6 @@
             }
         ],
  
-        "deletedMods": ["mods/carryon-forge-1.19.2-2.1.2.23.jar"]
+        "deletedMods": ["mods/Beyond-Earth-1.19.2-7.0-PRERELEASE"]
     }
 }
