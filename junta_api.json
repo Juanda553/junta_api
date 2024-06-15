@@ -3,36 +3,36 @@
     "juntaVersion": "3.3.03",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
-	"indexVersion": "1.19",
+    "indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
-	"modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/3.3.0/modpack_3_3_0.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/3.3.0/modpack_3_3_0.zip",
     "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.3.03/update_3.3.03.zip",
-	"dotMine": ".junta3",
-	
+    "dotMine": ".junta3",
+    
     "launcher_properties": {
         "launcherVersion": "2.0.1",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
-        "serverPrice": 0,
-        "moneyCollected": 120000,
-
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header_lajunta2lobby.jpg",
+        "serverPrice": 70000,
+        "moneyCollected": 70000,
+ 
         "colores": {
-            "background1": "#10200F",
-            "background2": "#21401E",
-            "button1": "#81BF7C",
-            "button2": "#809F7E",
-			"buttonPlay": "#72df6a",
+            "background1": "#CC7A2C",
+            "background2": "#55CC2C",
+            "button1": "#FF0000",
+            "button2": "#0017FF",
+            "buttonPlay": "#101010",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
             "font1": "#EFFFEE",
             "font2": "#21401E"
         },
-
+ 
         "event": {
-            "title": "EVENTO DE REAPERTURA!",
+            "title": "?? ??????",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/event.jpg",
-            "desc": "Volvemos a nuestro mundo! O algo así parece, hay algo extraño, pero no logro saber que es, espero nada salga mal... \n\nOh no.",
-            "date": "09/06/2024 - 3:00 p.m."
+            "desc": "Evento.",
+            "date": "13/06/2024 - 3:30 p.m."
         },
-
+ 
         "news": [
             {
                 "title": "REAPERTURA!",
@@ -41,7 +41,7 @@
                 "date" : "19/05/2024 - 3:17 p.m."
             }
         ],
-
+ 
         "partners": [
             {
                 "name": "Muelaepica",
@@ -72,7 +72,7 @@
                 "paid": "$3.000"
             }
         ],
-
+ 
         "deletedMods": ["mods/carryon-forge-1.19.2-2.1.2.23.jar"]
     }
 }
