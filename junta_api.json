@@ -7,7 +7,7 @@
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/3.3.1/junta3_3_1.zip",
     "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.3.1/update_3_3_1.zip",
-    "dotMine": ".junta3",
+    "dotMine": ".",
     
     "launcher_properties": {
         "launcherVersion": "2.0.2",
