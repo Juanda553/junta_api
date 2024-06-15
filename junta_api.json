@@ -6,14 +6,14 @@
 	"indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 	"modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/3.3.0/modpack_3_3_0.zip",
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/Update_Test/updaterTest_3_3_0.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.3.03/update_3.3.03.zip",
 	"dotMine": ".junta3",
 	
     "launcher_properties": {
         "launcherVersion": "2.0.1",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
-        "serverPrice": 70000,
-        "moneyCollected": 70000,
+        "serverPrice": 0,
+        "moneyCollected": 120000,
 
         "colores": {
             "background1": "#10200F",
@@ -45,7 +45,7 @@
         "partners": [
             {
                 "name": "Muelaepica",
-                "paid": "$30.000"
+                "paid": "$60.000"
             },
             {
                 "name": "Cierragamer",
@@ -57,7 +57,7 @@
             },
             {
                 "name": "TaysonXs",
-                "paid": "$10.000"
+                "paid": "$30.000"
             },
             {
                 "name": "lFaker",
