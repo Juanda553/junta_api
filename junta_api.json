@@ -1,6 +1,6 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.3.2",
+    "juntaVersion": "3.3.2.1",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
@@ -8,13 +8,13 @@
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/3.3.1/junta3_3_1.zip",
 
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.3.2/update_3_3_2.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/menu_3.3.2_1/update_3_3_2.zip",
 
     "dotMine": ".",
     
     "launcher_properties": {
         "launcherVersion": "2.0.2",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header_lajunta2lobby.jpg",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
         "serverPrice": 120000,
         "moneyCollected": 0,
  
@@ -33,7 +33,7 @@
             "title": "Colapso Dia 1",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/event.jpg",
             "desc": "Parece que hay varios humanos corruptos cerca de la grieta donde anteriormente estaba La Junta. Debemos construir una maquina del tiempo cerca del mismo punto donde se origino todo, pero primero debemos eliminar esos enemigos para que no molesten.",
-            "date": ""
+            "date": "*Crashea de nuevo*"
         },
  
         "news": [
