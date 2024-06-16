@@ -1,6 +1,6 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.3.2.1",
+    "juntaVersion": "3.3.3",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
@@ -78,7 +78,8 @@
  
         "deletedMods": [
             "mods/Beyond-Earth-1.19.2-7.0-PRERELEASE.jar",
-            "mods/antiqueatlas-8.0.4+itemless-forge-mc1.19.2.jar"
+            "mods/antiqueatlas-8.0.4+itemless-forge-mc1.19.2.jar",
+            "mods/Beyond-Earth-1.19.2-6.4f.jar"
         ]
     }
 }
