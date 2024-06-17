@@ -19,21 +19,21 @@
         "moneyCollected": 0,
  
         "colores": {
-            "background1": "#CC7A2C",
-            "background2": "#55CC2C",
-            "button1": "#FF0000",
-            "button2": "#0017FF",
-            "buttonPlay": "#101010",
+            "background1": "#0A070D",
+            "background2": "#201B26",
+            "button1": "#352D3D",
+            "button2": "#41334F",
+            "buttonPlay": "#46345E",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
-            "font1": "#EFFFEE",
-            "font2": "#21401E"
+            "font1": "#9c7ec4",
+            "font2": "#3e1e40"
         },
  
         "event": {
-            "title": "Colapso Dia 1",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/event.jpg",
-            "desc": "Parece que hay varios humanos corruptos cerca de la grieta donde anteriormente estaba La Junta. Debemos construir una maquina del tiempo cerca del mismo punto donde se origino todo, pero primero debemos eliminar esos enemigos para que no molesten.",
-            "date": "*Crashea de nuevo*"
+            "title": "Colapso Dia 2",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/Colapso_dia2.jpg",
+            "desc": "Hoy hemos descubierto algo alarmante. En el centro del \u00e1rea donde estaba la aldea, ha aparecido una esfera que est\u00e1 comenzando a colapsar el mundo. Justo debajo de esta esfera han surgido unas grietas que generan rayos distorsionadores, alterando nuestro entorno. Sin embargo, nuestro principal problema ahora son los humanos corruptos que han empezado a generarse alrededor de estas grietas. Necesitamos eliminarlos antes de que causen m\u00e1s caos. Es vital que despejemos esta \u00e1rea para poder construir una m\u00e1quina del tiempo y aprovechar la energ\u00eda de la esfera para corregir nuestra l\u00ednea temporal. \u00a1Re\u00fananse y acaben con esta amenaza!",
+            "date": "17/06/2023"
         },
  
         "news": [
