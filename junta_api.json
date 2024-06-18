@@ -1,14 +1,14 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.3.2V",
+    "juntaVersion": "3.3.3",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/3.3.1/junta3_3_1.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.3.2/modpack_3.3.2.zip",
 
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.3.2_versions/update_3_3_2_versions.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/menu3_3.3.2/menu3_3.3.2.zip",
 
     "dotMine": ".",
     
