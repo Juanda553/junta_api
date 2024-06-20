@@ -1,6 +1,6 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.3.2.3",
+    "juntaVersion": "3.3.2.4",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
@@ -8,13 +8,14 @@
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.3.2/modpack_3.3.2.zip",
 
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/menu3_3.3.2/menu3_3.3.2.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/menu_3.3.4/menu_3.3.2.4.zip",
 
     "dotMine": ".",
+    "background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/colapso_3.png",
     
     "launcher_properties": {
         "launcherVersion": "2.0.2",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/header_colapso_d3.jpg",
         "serverPrice": 120000,
         "moneyCollected": 0,
  
@@ -32,7 +33,7 @@
         "event": {
             "title": "Colapso Dia 3",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/Colapso_dia3.jpg",
-            "desc": "Hoy nos dimos cuenta que el punto cero que habíamos hallado no es el verdadero. Tenemos que buscar la ubicación real del punto cero, que es clave pa' regresar a nuestra época. Nuestra tarea es encontrar ese punto de verdad y recoger los Therium Shards, enfrentándonos a enemigos más fuertes en el camino. Estos pedacitos son cruciales pa' activar la máquina del tiempo.",
+            "desc": "Hoy nos dimos cuenta que el punto cero que hab\u00edamos hallado no es el verdadero. Tenemos que buscar la ubicaci\u00f3n real del punto cero, que es clave pa' regresar a nuestra \u00e9poca. Nuestra tarea es encontrar ese punto de verdad y recoger los Therium Shards, enfrent\u00e1ndonos a enemigos m\u00e1s fuertes en el camino. Estos pedacitos son cruciales pa' activar la m\u00e1quina del tiempo.",
             "date": "20/06/2024 - 8:00 p.m."
         },
  
@@ -46,34 +47,7 @@
         ],
  
         "partners": [
-            {
-                "name": "Muelaepica",
-                "paid": "$60.000"
-            },
-            {
-                "name": "Cierragamer",
-                "paid": "$15.000"
-            },
-            {
-                "name": "TheChan15",
-                "paid": "$10.000"
-            },
-            {
-                "name": "TaysonXs",
-                "paid": "$30.000"
-            },
-            {
-                "name": "lFaker",
-                "paid": "$5.000"
-            },
-            {
-                "name": "Anderson",
-                "paid": "$4.300"
-            },
-            {
-                "name": "PipeZv",
-                "paid": "$3.000"
-            }
+
         ],
  
         "deletedMods": [
