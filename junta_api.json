@@ -1,6 +1,6 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.3.3",
+    "juntaVersion": "3.3.2.3",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
@@ -19,21 +19,21 @@
         "moneyCollected": 0,
  
         "colores": {
-            "background1": "#0A070D",
-            "background2": "#201B26",
-            "button1": "#352D3D",
-            "button2": "#41334F",
-            "buttonPlay": "#46345E",
+            "background1": "#0C0B08",
+            "background2": "#23211E",
+            "button1": "#393731",
+            "button2": "#48443A",
+            "buttonPlay": "#544C3E",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
-            "font1": "#3e1e40",
-            "font2": "#9c7ec4"
+            "font1": "#393731",
+            "font2": "#a89a80"
         },
  
         "event": {
-            "title": "Colapso Dia 2",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/Colapso_dia2.jpg",
-            "desc": "Evento finalizado.",
-            "date": "17/06/2023 - 4:00 p.m."
+            "title": "Colapso Dia 3",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/Colapso_dia3.jpg",
+            "desc": "Hoy nos dimos cuenta que el punto cero que habíamos hallado no es el verdadero. Tenemos que buscar la ubicación real del punto cero, que es clave pa' regresar a nuestra época. Nuestra tarea es encontrar ese punto de verdad y recoger los Therium Shards, enfrentándonos a enemigos más fuertes en el camino. Estos pedacitos son cruciales pa' activar la máquina del tiempo.",
+            "date": "20/06/2024 - 8:00 p.m."
         },
  
         "news": [
