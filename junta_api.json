@@ -1,17 +1,19 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.3.2.4",
+    "juntaVersion": "3.4.0",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.3.2/modpack_3.3.2.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.4/modpack_3.4.0.zip",
 
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/menu_3.3.4/menu_3.3.2.4.zip",
-
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.4.0/update_3.4.0.zip",
     "dotMine": ".",
-    "background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/colapso_3.png",
+    
+    
+    "background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/gameBackground.png",
+    "featuredImage": "",
     
     "launcher_properties": {
         "launcherVersion": "2.0.2",
@@ -31,10 +33,10 @@
         },
  
         "event": {
-            "title": "Colapso Dia 3",
+            "title": "Colapso Ultimos Días",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/Colapso_dia3.jpg",
-            "desc": "Hoy nos dimos cuenta que el punto cero que hab\u00edamos hallado no es el verdadero. Tenemos que buscar la ubicaci\u00f3n real del punto cero, que es clave pa' regresar a nuestra \u00e9poca. Nuestra tarea es encontrar ese punto de verdad y recoger los Therium Shards, enfrent\u00e1ndonos a enemigos m\u00e1s fuertes en el camino. Estos pedacitos son cruciales pa' activar la m\u00e1quina del tiempo.",
-            "date": "20/06/2024 - 8:00 p.m."
+            "desc": "Sobrevive a las anomalias.",
+            "date": "21/06/2024"
         },
  
         "news": [
@@ -53,7 +55,8 @@
         "deletedMods": [
             "mods/Beyond-Earth-1.19.2-7.0-PRERELEASE.jar",
             "mods/antiqueatlas-8.0.4+itemless-forge-mc1.19.2.jar",
-            "mods/Beyond-Earth-1.19.2-6.4f.jar"
+            "mods/Beyond-Earth-1.19.2-6.4f.jar",
+            "mods/CustomSkinLoader_ForgeActive-14.15-SNAPSHOT-353.jar"
         ]
     }
 }
