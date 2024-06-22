@@ -1,14 +1,14 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.4.3",
+    "juntaVersion": "3.4.4",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.4.3/modpack_3.4.3.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.4.4/modpack_3.4.4.zip",
 
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.4.3/update_3.4.3.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.4.4/update_3.4.4.zip",
     "dotMine": ".",
     
     
@@ -57,7 +57,8 @@
             "mods/antiqueatlas-8.0.4+itemless-forge-mc1.19.2.jar",
             "mods/Beyond-Earth-1.19.2-6.4f.jar",
             "mods/CustomSkinLoader_ForgeActive-14.15-SNAPSHOT-353.jar",
-            "mods/born_in_chaos_[Forge]1.19.2_1.10.1.jar"
+            "mods/born_in_chaos_[Forge]1.19.2_1.10.1.jar",
+            "mods/beer_craft-1.19.2-1.0.0.jar"
         ]
     }
 }
