@@ -22,14 +22,14 @@
         "moneyCollected": 0,
  
         "colores": {
-            "background1": "#800000",
-            "background2": "#AE0000",
-            "button1": "#DC0000",
-            "button2": "#DC0000",
-            "buttonPlay": "#FF0B0B",
+            "background1": "#371916",
+            "background2": "#582823",
+            "button1": "#793730",
+            "button2": "#793730",
+            "buttonPlay": "#371916",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
             "font1": "#FF9494",
-            "font2": "#AE0000"
+            "font2": "#582823"
         },
  
         "event": {
