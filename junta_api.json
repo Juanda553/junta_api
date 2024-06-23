@@ -33,6 +33,7 @@
         },
  
         "event": {
+            "id": "nether_open",
             "title": "Apertura del Nether",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/aperturaNether.jpg",
             "desc": "Parece que los rayos empezaron a Generar un Portal a otra dimensi\u00f3n. El Nether ya est\u00e1 abierto para todos!\n\nCoordenadas del portal global: -165 63 -35\nTambi\u00e9n puede teletransportarse con su Waystone, el nombre es Portal Nether",
@@ -41,6 +42,7 @@
  
         "news": [
             {
+                "id": "reopen",
                 "title": "REAPERTURA!",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/LaJuntaBack.jpg",
                 "desc": "Estamos de regreso!",
@@ -49,7 +51,10 @@
         ],
  
         "partners": [
-
+            {
+                "name": "Nadie",
+                "paid": "$0"
+            }
         ],
  
         "deletedMods": [
