@@ -1,6 +1,4 @@
-Parece que los rayos del empezaron a Generar un Portal a otra dimensión. 
-
-Nether ya disponible!
+Parece que los rayos empezaron a Generar un Portal a otra dimensión.\nNether ya disponible!
 Coordenadas del portal global: -165 63 -35
 También puede teletransportarse con su Waystone, el nombre es Portal Nether
 
