@@ -12,32 +12,32 @@
     "dotMine": ".",
     
     
-    "background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.43.36.png",
+    "background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-24_00.21.22.png",
     "featuredImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.51.28.png",
     
     "launcher_properties": {
         "launcherVersion": "2.0.2",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/header_colapso_d3.jpg",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
         "serverPrice": 120000,
         "moneyCollected": 0,
  
         "colores": {
-            "background1": "#371916",
-            "background2": "#582823",
-            "button1": "#793730",
-            "button2": "#793730",
-            "buttonPlay": "#371916",
+            "background1": "#1E1E1E",
+            "background2": "#303030",
+            "button1": "#686868",
+            "button2": "#686868",
+            "buttonPlay": "#D1CD7B",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
-            "font1": "#FF9494",
-            "font2": "#FF9494"
+            "font1": "#FFFFFF",
+            "font2": "#FFFFFF"
         },
  
         "event": {
-            "id": "nether_open",
-            "title": "Apertura del Nether",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/aperturaNether.jpg",
-            "desc": "Parece que los rayos empezaron a Generar un Portal a otra dimensi\u00f3n. El Nether ya est\u00e1 abierto para todos!\n\nCoordenadas del portal global: -165 63 -35\nTambi\u00e9n puede teletransportarse con su Waystone, el nombre es Portal Nether",
-            "date": "23/06/2024"
+            "id": "world_iii_back",
+            "title": "EL REGRESO.",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/event.jpg",
+            "desc": "Finalmente volveremos a casa.",
+            "date": "24/06/2024 - 5:00 p.m."
         },
  
         "news": [
