@@ -1,6 +1,6 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.4.4",
+    "juntaVersion": "3.4.5",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
@@ -63,7 +63,11 @@
             "mods/Beyond-Earth-1.19.2-6.4f.jar",
             "mods/CustomSkinLoader_ForgeActive-14.15-SNAPSHOT-353.jar",
             "mods/born_in_chaos_[Forge]1.19.2_1.10.1.jar",
-            "mods/beer_craft-1.19.2-1.0.0.jar"
+            "mods/beer_craft-1.19.2-1.0.0.jar",
+            "mods/TheOneWhoWatches-V1.3.0-1.19.2.jar",
+            "mods/The-Man-From-The-Fog-1.3-1.19.2.jar",
+            "mods/cave_dweller-1.19.2-1.7.0.jar",
+            "mods/Forge 1.19.2 Minecraft Middle Ages 0.0.4.jar"
         ]
     }
 }
