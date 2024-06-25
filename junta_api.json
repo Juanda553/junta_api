@@ -6,14 +6,19 @@
     "indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.4.4/modpack_3.4.4.zip",
+    "modpackInstall": "",
 
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.4.4/update_3.4.4.zip",
+    "modPackUpdate": "",
+
+
     "dotMine": ".",
-    
-    
     "background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-24_00.21.22.png",
-    "featuredImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.51.28.png",
+    "featuredImages": [
+        "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-03-05_14.09.34.png",
+        "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
+        "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.51.28.png",
+        "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-24_21.37.21.png"
+    ],
     
     "launcher_properties": {
         "launcherVersion": "2.0.2",
@@ -22,10 +27,10 @@
         "moneyCollected": 0,
  
         "colores": {
-            "background1": "#1E1E1E",
-            "background2": "#303030",
-            "button1": "#686868",
-            "button2": "#686868",
+            "background1": "#0B1A0D",
+            "background2": "#253B28",
+            "button1": "#32563D",
+            "button2": "#32563D",
             "buttonPlay": "#D1CD7B",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
             "font1": "#FFFFFF",
@@ -33,11 +38,11 @@
         },
  
         "event": {
-            "id": "world_iii_back",
-            "title": "EL REGRESO.",
+            "id": "lj3_back",
+            "title": "¡Volvimos!",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/event.jpg",
-            "desc": "Finalmente volveremos a casa.",
-            "date": "24/06/2024 - 5:00 p.m."
+            "desc": "Finalmente hemos podido estabilizar el mundo, y hemos regresado y recuperado nuestras cosas, hogares y familia.\n\nEsperemos que eso sea todo por ahora.",
+            "date": "25/06/2024"
         },
  
         "news": [
@@ -67,7 +72,11 @@
             "mods/TheOneWhoWatches-V1.3.0-1.19.2.jar",
             "mods/The-Man-From-The-Fog-1.3-1.19.2.jar",
             "mods/cave_dweller-1.19.2-1.7.0.jar",
-            "mods/Forge 1.19.2 Minecraft Middle Ages 0.0.4.jar"
+            "mods/Forge 1.19.2 Minecraft Middle Ages 0.0.4.jar",
+            "mods/monstersandmushrooms-0.0.3-1.19.2.jar",
+            "mods/nyctophobia-dread-3.jar",
+            "mods/The_Graveyard_2.5.3_(FORGE)_for_1.19.2..jar",
+            "mods/Whispers_of_the_Wendigo_0.1.1_1.19.2.jar"
         ]
     }
 }
