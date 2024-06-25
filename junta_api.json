@@ -41,6 +41,27 @@
  
         "news": [
             {
+                "id": "the_back_world_3",
+                "title": "REAPERTURA!",
+                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-25_11.28.16.png",
+                "desc": "Estamos de regreso!",
+                "date" : "19/05/2024 - 3:17 p.m."
+            },
+            {
+                "id": "impacto_1",
+                "title": "El impacto",
+                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.43.36.png",
+                "desc": "Por culpa de la fusion de universos, este mundo va a sufrir un evento de otro universo llamada El Impacto, preparense todos para escapar de este mundo antes que el impacto termine!",
+                "date" : "12/06/2024 - 01:16 a.m."
+            },
+            {
+                "id": "participantes_iniciales",
+                "title": "Gracias!",
+                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
+                "desc": "Gracias a los que estuvieron en la apertura de La Junta III <3",
+                "date" : "15/06/2024 - 12:00 a.m."
+            },
+            {
                 "id": "reopen",
                 "title": "REAPERTURA!",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/LaJuntaBack.jpg",
