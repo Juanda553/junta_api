@@ -81,7 +81,9 @@
             "config/fancymenu/assets/imgs/bgs/colapso_3.png",
             "config/fancymenu/assets/imgs/bgs/junta2.png",
             "config/fancymenu/assets/imgs/bgs/2024-06-15_20.21.21.png",
-            "config/fancymenu/assets/imgs/bgs/junta2.png"
+            "config/fancymenu/assets/imgs/bgs/junta2.png",
+            "fancymenu_data/last_world.fmdata",
+            "fancymenu_instance_data/extensions/fmaudio/muted_audio_items.properties"
         ]
     }
 }
