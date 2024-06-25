@@ -1,6 +1,6 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.5.0",
+    "juntaVersion": "3.5.01",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
@@ -13,12 +13,6 @@
 
     "dotMine": ".",
     "background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-24_00.21.22.png",
-    "featuredImages": [
-        "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-03-05_14.09.34.png",
-        "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
-        "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.51.28.png",
-        "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-24_21.37.21.png"
-    ],
     
     "launcher_properties": {
         "launcherVersion": "2.0.2",
