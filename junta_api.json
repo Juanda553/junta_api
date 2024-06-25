@@ -33,7 +33,7 @@
  
         "event": {
             "id": "lj3_back",
-            "title": "¡Volvimos!",
+            "title": "Volvimos!",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/LaJuntaBack.jpg",
             "desc": "Finalmente hemos podido estabilizar el mundo, y hemos regresado y recuperado nuestras cosas, hogares y familia.\n\nEsperemos que eso sea todo por ahora.",
             "date": "25/06/2024"
