@@ -1,14 +1,14 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.4.5",
+    "juntaVersion": "3.5.0",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.5/modpack_3.5.0.zip",
 
-    "modPackUpdate": "",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.5.0/update_3.5.0.zip",
 
 
     "dotMine": ".",
@@ -76,7 +76,18 @@
             "mods/monstersandmushrooms-0.0.3-1.19.2.jar",
             "mods/nyctophobia-dread-3.jar",
             "mods/The_Graveyard_2.5.3_(FORGE)_for_1.19.2..jar",
-            "mods/Whispers_of_the_Wendigo_0.1.1_1.19.2.jar"
+            "mods/Whispers_of_the_Wendigo_0.1.1_1.19.2.jar",
+            "config/fancymenu/assets/imgs/juntacrash3.png",
+            "config/fancymenu/assets/imgs/la_junta_3_mini.png",
+            "config/fancymenu/assets/imgs/lajuntacraft_logo.png",
+            "config/fancymenu/assets/imgs/junta_full_logo.png",
+            "config/fancymenu/assets/imgs/la_junta_3.png",
+            "config/fancymenu/assets/imgs/bgs/2024-06-15_20.21.21.png",
+            "config/fancymenu/assets/imgs/bgs/2024-06-18_00.49.53.png",
+            "config/fancymenu/assets/imgs/bgs/colapso_3.png",
+            "config/fancymenu/assets/imgs/bgs/junta2.png",
+            "config/fancymenu/assets/imgs/bgs/2024-06-15_20.21.21.png",
+            "config/fancymenu/assets/imgs/bgs/junta2.png"
         ]
     }
 }
