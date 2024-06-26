@@ -18,7 +18,7 @@
         "launcherVersion": "2.0.2",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
         "serverPrice": 120000,
-        "moneyCollected": 0,
+        "moneyCollected": 30000,
  
         "colores": {
             "background1": "#0B1A0D",
@@ -79,8 +79,8 @@
  
         "partners": [
             {
-                "name": "Nadie",
-                "paid": "$0"
+                "name": "Muelaepica",
+                "paid": "$30000"
             }
         ],
  
