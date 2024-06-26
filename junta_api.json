@@ -1,6 +1,6 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.5.01",
+    "juntaVersion": "3.5.1",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
@@ -8,7 +8,7 @@
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.5/modpack_3.5.0.zip",
 
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.5.0/update_3.5.0.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.5.1/update_3.5.1.zip",
 
 
     "dotMine": ".",
