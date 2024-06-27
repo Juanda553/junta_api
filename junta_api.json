@@ -1,6 +1,6 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.5.1",
+    "juntaVersion": "3.5.2",
     "forgeVersion": "1.19.2-forge-43.4.0",
     "vanillaVersion": "1.19.2",
     "indexVersion": "1.19",
@@ -111,7 +111,8 @@
             "config/fancymenu/assets/imgs/bgs/2024-06-15_20.21.21.png",
             "config/fancymenu/assets/imgs/bgs/junta2.png",
             "fancymenu_data/last_world.fmdata",
-            "fancymenu_instance_data/extensions/fmaudio/muted_audio_items.properties"
+            "fancymenu_instance_data/extensions/fmaudio/muted_audio_items.properties",
+            "mods/Lunar-forge-1.19.2-0.1.10.jar"
         ]
     }
 }
