@@ -45,7 +45,15 @@
                 "title": "Crasheos del servidor.",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
                 "desc": "Actualmente el servidor está tratando de dar a un jugador un efecto de poción que \"no existe\"\n\nTraten de no intentar tener contacto con ningun warden por el momento. Si el servidor crashea y ningun jugador estuvo cerca de un warden o de una ancient city, reportenlo enseguida.\n\nMas informacion en el Discord y el canal de Whatsapp",
-                "date" : "26/06/2024 - 11:26 p.m.",
+                "date" : "27/06/2024 - 11:26 p.m.",
+                "author": "Juanda"
+            },
+            {
+                "id": "launcher_relase_v2_1_0",
+                "title": "Actualizacion 2.1 del Launcher",
+                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/update_3.5.5/img/junta_update.jpg",
+                "desc": "Nuevas Version para el Launcher de La Junta ya disponible!\n\nFinalmente el modo de alta calidad esta aqui!\nTambien la seccion de noticias, y la ventana de ajustes. Toda la info en Discord",
+                "date" : "28/06/2024 - 05:41 p.m.",
                 "author": "Juanda"
             },
             {
