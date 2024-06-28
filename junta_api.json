@@ -140,7 +140,9 @@
             "mods/Lunar-forge-1.19.2-0.1.10.jar",
             "mods/EyesInTheDarkness-1.19.2-1.3.10.jar",
             "mods/additional_lights-1.19-2.1.6.jar",
-            "mods/rubidium-0.6.2b.jar"
+            "mods/rubidium-0.6.2b.jar",
+            "mods/effective_fg-1.3.4.jar",
+            "mods/visuality-forge-2.0.2.jar"
         ],
 
         "high_quality": {
