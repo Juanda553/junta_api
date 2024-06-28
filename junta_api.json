@@ -9,6 +9,7 @@
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.5/modpack_3.5.0.zip",
 
     "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.5.5/update_3.5.5.zip",
+                        "a": "RECUERDA QUITAR EL EFFECTIVE Y EL VISUALITY DEL DELETED MODS",
 
 
     "dotMine": ".",
@@ -52,8 +53,8 @@
                 "id": "launcher_relase_v2_1_0",
                 "title": "Actualizacion 2.1 del Launcher",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/update_3.5.5/img/junta_update.jpg",
-                "desc": "Nuevas Version para el Launcher de La Junta ya disponible!\n\nFinalmente el modo de alta calidad esta aqui!\nTambien la seccion de noticias, y la ventana de ajustes. Toda la info en Discord",
-                "date" : "28/06/2024 - 05:41 p.m.",
+                "desc": "Nueva Version para el Launcher de La Junta ya disponible!\n\nFinalmente el modo de alta calidad esta aqui!\nTambien la seccion de noticias, y la ventana de ajustes. Toda la info en Discord",
+                "date" : "28/06/2024 - 05:41 a.m.",
                 "author": "Juanda"
             },
             {
