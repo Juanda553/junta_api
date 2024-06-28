@@ -44,43 +44,49 @@
                 "id": "crash_warden",
                 "title": "Crasheos del servidor.",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
-                "desc": "Actualmente el servidor está tratando de dar a un jugador un efecto de poción que \"no existe\"\nTraten de no intentar tener contacto con ningun warden por el momento. Si el servidor crashea y ningun jugador estuvo cerca de un warden o de una ancient city, reportenlo enseguida.\nMas informacion en el Discord y el canal de Whatsapp\n~Juanda",
-                "date" : "26/06/2024 - 11:26 p.m."
+                "desc": "Actualmente el servidor está tratando de dar a un jugador un efecto de poción que \"no existe\"\nTraten de no intentar tener contacto con ningun warden por el momento. Si el servidor crashea y ningun jugador estuvo cerca de un warden o de una ancient city, reportenlo enseguida.\nMas informacion en el Discord y el canal de Whatsapp",
+                "date" : "26/06/2024 - 11:26 p.m.",
+                "author": "Juanda"
             },
             {
                 "id": "the_back_world_3",
                 "title": "Volvimos!",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-25_11.28.16.png",
                 "desc": "Finalmente hemos podido estabilizar el mundo, y hemos regresado y recuperado nuestras cosas, hogares y familia.\n\nEsperemos que eso sea todo por ahora. \n\nAunque parece ser que hay unos puntos que aun tienen ratros del impacto.",
-                "date" : "25/06/2024 - 12:00 a.m."
+                "date" : "25/06/2024 - 12:00 a.m.",
+                "author": "Diomedes"
             },
             {
                 "id": "viaje_tiempo",
                 "title": "Viaje en el tiempo",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.43.36.png",
                 "desc": "Debemos viajar en el tiempo para poder volver a nuestra linea",
-                "date" : "23/06/2024 - 03:48 a.m."
+                "date" : "23/06/2024 - 03:48 a.m.",
+                "author": "Diomedes"
             },
             {
                 "id": "impacto_1",
                 "title": "El impacto",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.43.36.png",
                 "desc": "Por culpa de la fusion de universos, este mundo va a sufrir un evento de otro universo llamada El Impacto, preparense todos para escapar de este mundo antes que el impacto termine!",
-                "date" : "23/06/2024 - 01:16 a.m."
+                "date" : "23/06/2024 - 01:16 a.m.",
+                "author": "Diomedes"
             },
             {
                 "id": "participantes_iniciales",
                 "title": "Gracias!",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
                 "desc": "Gracias a los que estuvieron en la apertura de La Junta III <3",
-                "date" : "15/06/2024 - 12:00 a.m."
+                "date" : "15/06/2024 - 12:00 a.m.",
+                "author": "Juanda"
             },
             {
                 "id": "reopen",
                 "title": "REAPERTURA!",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/LaJuntaBack.jpg",
                 "desc": "Estamos de regreso!",
-                "date" : "19/05/2024 - 3:17 p.m."
+                "date" : "19/05/2024 - 3:17 p.m.",
+                "author": "Juanda"
             }
         ],
  
