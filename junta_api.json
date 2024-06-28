@@ -44,7 +44,7 @@
                 "id": "crash_warden",
                 "title": "Crasheos del servidor.",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
-                "desc": "Actualmente el servidor está tratando de dar a un jugador un efecto de poción que \"no existe\"\nTraten de no intentar tener contacto con ningun warden por el momento. Si el servidor crashea y ningun jugador estuvo cerca de un warden o de una ancient city, reportenlo enseguida.\nMas informacion en el Discord y el canal de Whatsapp",
+                "desc": "Actualmente el servidor está tratando de dar a un jugador un efecto de poción que \"no existe\"\n\nTraten de no intentar tener contacto con ningun warden por el momento. Si el servidor crashea y ningun jugador estuvo cerca de un warden o de una ancient city, reportenlo enseguida.\n\nMas informacion en el Discord y el canal de Whatsapp",
                 "date" : "26/06/2024 - 11:26 p.m.",
                 "author": "Juanda"
             },
