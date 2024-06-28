@@ -45,7 +45,7 @@
                 "id": "crash_warden",
                 "title": "Crasheos del servidor.",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
-                "desc": "Actualmente el servidor está tratando de dar a un jugador un efecto de poción que \"no existe\"\n\nTraten de no intentar tener contacto con ningun warden por el momento. Si el servidor crashea y ningun jugador estuvo cerca de un warden o de una ancient city, reportenlo enseguida.\n\nMas informacion en el Discord y el canal de Whatsapp",
+                "desc": "Actualmente, el servidor est\u00e1 presentando fallas debido a que tratando de dar a un jugador un efecto de poci\u00f3n que \"no existe\"\n\nTraten de no intentar tener contacto con ning\u00fan Warden por el momento. Si el servidor crashea y ning\u00fan jugador estuvo cerca de un warden o de una ancient city, rep\u00f3rtenlo enseguida. M\u00e1s informaci\u00f3n en el Discord y el canal de WhatsApp",
                 "date" : "27/06/2024 - 11:26 p.m.",
                 "author": "Juanda"
             },
@@ -53,39 +53,15 @@
                 "id": "launcher_relase_v2_1_0",
                 "title": "Actualizacion 2.1 del Launcher",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/update_3.5.5/img/junta_update.jpg",
-                "desc": "Nueva Version para el Launcher de La Junta ya disponible!\n\nFinalmente el modo de alta calidad esta aqui!\nTambien la seccion de noticias, y la ventana de ajustes. Toda la info en Discord",
+                "desc": "Nueva versi\u00f3n para el Launcher de La Junta ya disponible!\n\nFinalmente el modo de alta calidad est\u00e1 aqu\u00ed!\nTambi\u00e9n la secci\u00f3n de noticias y la ventana de ajustes. Toda la informaci\u00f3n en Discord.",
                 "date" : "28/06/2024 - 05:41 a.m.",
                 "author": "Juanda"
-            },
-            {
-                "id": "the_back_world_3",
-                "title": "Volvimos!",
-                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-25_11.28.16.png",
-                "desc": "Finalmente hemos podido estabilizar el mundo, y hemos regresado y recuperado nuestras cosas, hogares y familia.\n\nEsperemos que eso sea todo por ahora. \n\nAunque parece ser que hay unos puntos que aun tienen ratros del impacto.",
-                "date" : "25/06/2024 - 12:00 a.m.",
-                "author": "Diomedes"
-            },
-            {
-                "id": "viaje_tiempo",
-                "title": "Viaje en el tiempo",
-                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.43.36.png",
-                "desc": "Debemos viajar en el tiempo para poder volver a nuestra linea",
-                "date" : "23/06/2024 - 03:48 a.m.",
-                "author": "Diomedes"
-            },
-            {
-                "id": "impacto_1",
-                "title": "El impacto",
-                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-23_02.43.36.png",
-                "desc": "Por culpa de la fusion de universos, este mundo va a sufrir un evento de otro universo llamada El Impacto, preparense todos para escapar de este mundo antes que el impacto termine!",
-                "date" : "23/06/2024 - 01:16 a.m.",
-                "author": "Diomedes"
             },
             {
                 "id": "participantes_iniciales",
                 "title": "Gracias!",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
-                "desc": "Gracias a los que estuvieron en la apertura de La Junta III <3",
+                "desc": "Gracias a los que estuvieron en la apertura de La Junta III: El Colapso <3",
                 "date" : "15/06/2024 - 12:00 a.m.",
                 "author": "Juanda"
             },
