@@ -135,6 +135,9 @@
         ],
 
         "high_quality": {
+            "version": "1",
+            "shaders": "ComplementaryUnbound_r5.2.1.zip",
+            
             "mods": [
                 {
                     "name": "Oculus",
@@ -151,8 +154,7 @@
                     "loc": "mods/visuality-forge-2.0.2.jar",
                     "download": "https://www.curseforge.com/api/v1/mods/704256/files/4684872/download"
                 }
-            ],
-            "shaders": "ComplementaryUnbound_r5.2.1.zip"
+            ]
         }
     }
 }
