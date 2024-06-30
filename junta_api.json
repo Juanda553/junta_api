@@ -50,20 +50,20 @@
                 "author": "Juanda"
             },
             {
+                "id": "mantenimiento_29_06_2024",
+                "title": "Mantenimiento (Terminado)",
+                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_mantenimiento.jpg",
+                "desc": "Servidor en mantenimiento para tratar de corregir errores como \"Ha tomado mucho tiempo en conectar\" o crasheos por warden.\n\nEl mantenimiento ha acabado a las 10:48 p.m. del mismo dia",
+                "date" : "29/06/2024 - 7:21 p.m.",
+                "author": "lFaker - Juanda"
+            },
+            {
                 "id": "launcher_relase_v2_1_0",
                 "title": "Actualizacion 2.1 del Launcher",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/update_3.5.5/img/junta_update.jpg",
                 "desc": "Nueva versi\u00f3n para el Launcher de La Junta ya disponible!\n\nFinalmente el modo de alta calidad est\u00e1 aqu\u00ed!\nTambi\u00e9n la secci\u00f3n de noticias y la ventana de ajustes. Toda la informaci\u00f3n en Discord.",
                 "date" : "28/06/2024 - 05:41 a.m.",
                 "author": "Juanda"
-            },
-            {
-                "id": "mantenimiento_29_06_2024",
-                "title": "Mantenimiento (Terminado)",
-                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_mantenimiento.jpg",
-                "desc": "Servidor en mantenimiento para tratar de corregir errores como \"Ha tomado mucho tiempo en conectar\" o crasheos por warden.\n\nEl mantenimiento ha acabado a las 10:48 p.m. del mismo dia",
-                "date" : "29/06/2024 - 7:21 p.m.",
-                "author": "lFaker\nJuanda"
             },
             {
                 "id": "participantes_iniciales",
