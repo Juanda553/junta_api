@@ -42,6 +42,14 @@
  
         "news": [
             {
+                "id": "mantenimiento_29_06_2024",
+                "title": "Mantenimiento",
+                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_mantenimiento.jpg",
+                "desc": "Servidor en mantenimiento para tratar de corregir errores como \"Ha tomado mucho tiempo en conectar\" o crasheos por warden.\n\nLes avisaremos cuando finalice el mantenimiento.",
+                "date" : "29/06/2024 - 7:21 p.m.",
+                "author": "Juanda"
+            },
+            {
                 "id": "crash_warden",
                 "title": "Crasheos del servidor.",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
