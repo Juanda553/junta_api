@@ -42,7 +42,15 @@
  
         "news": [
             {
-                "id": "patch_3.5.6",
+                "id": "1_week_to_end",
+                "title": "Pago del servidor",
+                "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_alert.jpg",
+                "desc": "Queda menos de una semana para que el servidor cierre por no pagar. Paguen lo que falta para que el servidor continue abierto.",
+                "date" : "30/06-2024 - 7:57 p.m.",
+                "author": "Juanda"
+            },
+            {
+                "id": "patch_3_5_6",
                 "title": "Parche 3.5.6",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/update_3.5.6/img/junta_update.jpg",
                 "desc": "Finalmente el problema de los cristales conectados que no ten\u00edan texturas ha sido corregido.\n\nDe nuevo sus ajustes de teclas y eso se reiniciaron XD, disculpen",
