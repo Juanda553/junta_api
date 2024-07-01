@@ -19,7 +19,7 @@
         "launcherVersion": "2.1.0",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
         "serverPrice": 120000,
-        "moneyCollected": 37000,
+        "moneyCollected": 47000,
  
         "colores": {
             "background1": "#0B1A0D",
@@ -95,6 +95,10 @@
             {
                 "name": "Muelaepica",
                 "paid": "$30000"
+            },
+            {
+                "name": "TaysonXs",
+                "paid": "$10000"
             },
             {
                 "name": "jeidi",
