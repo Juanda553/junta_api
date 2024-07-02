@@ -45,7 +45,7 @@
                 "id": "1_week_to_end",
                 "title": "Pago del servidor",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_alert.jpg",
-                "desc": "Mañana es el ultimo dia.",
+                "desc": "La fecha l\u00edmite para pagar el servidor es hasta el 12 de julio. Si despu\u00e9s de esa fecha no se paga, el servidor ser\u00e1 eliminado autom\u00e1ticamente por el host.\n\nEl servidor se apagar\u00e1 sin posibilidades de volver a ser encendido entre el d\u00eda 3 y 5 de julio si no es pagado antes.",
                 "date" : "30/06-2024 - 7:57 p.m.",
                 "author": "Juanda"
             },
