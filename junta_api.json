@@ -45,7 +45,7 @@
                 "id": "1_week_to_end",
                 "title": "Pago del servidor",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_alert.jpg",
-                "desc": "Queda menos de una semana para que el servidor cierre por no pagar. Paguen lo que falta para que el servidor continue abierto.",
+                "desc": "Mañana es el ultimo dia.",
                 "date" : "30/06-2024 - 7:57 p.m.",
                 "author": "Juanda"
             },
@@ -106,6 +106,10 @@
             },
             {
                 "name": "TaysonXs",
+                "paid": "$10000"
+            },
+            {
+                "name": "Vegetta777 (Mondathias)",
                 "paid": "$10000"
             },
             {
