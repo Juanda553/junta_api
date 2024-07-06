@@ -42,10 +42,10 @@
  
         "news": [
             {
-                "id": "the_end_payment",
+                "id": "limit_date_payment",
                 "title": "Pago del servidor",
                 "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_alert.jpg",
-                "desc": "El servidor se apagar\u00e1 sin posibilidades de volver a ser encendido entre el d\u00eda 3 y 5 de julio si no es pagado antes.\nLa fecha l\u00edmite para pagar el servidor es hasta el 12 de julio. Si despu\u00e9s de esa fecha no se paga, el servidor ser\u00e1 eliminado autom\u00e1ticamente por el host.",
+                "desc": "La fecha l\u00edmite para pagar el servidor es hasta el 12 de julio. Si despu\u00e9s de esa fecha no se paga, el servidor ser\u00e1 eliminado autom\u00e1ticamente por el host.",
                 "date" : "30/06-2024 - 7:57 p.m.",
                 "author": "Juanda"
             },
