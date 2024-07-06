@@ -22,22 +22,22 @@
         "moneyCollected": 77000,
  
         "colores": {
-            "background1": "#0B1A0D",
-            "background2": "#253B28",
-            "button1": "#32563D",
-            "button2": "#32563D",
-            "buttonPlay": "#D1CD7B",
+            "background1": "#151515",
+            "background2": "#2A2A2A",
+            "button1": "#5F5F5F",
+            "button2": "#5F5F5F",
+            "buttonPlay": "#5F5F5F",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
             "font1": "#FFFFFF",
             "font2": "#FFFFFF"
         },
  
         "event": {
-            "id": "lj3_back",
-            "title": "Volvimos!",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/LaJuntaBack.jpg",
-            "desc": "Finalmente hemos podido estabilizar el mundo, y hemos regresado y recuperado nuestras cosas, hogares y familia.\n\nEsperemos que eso sea todo por ahora.",
-            "date": "25/06/2024"
+            "id": "adios_junta_3",
+            "title": "Gracias",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
+            "desc": "Muchas gracias por haber jugado en La Junta III: El Colapso <3 (Los que no jugaron que coman 5 planetas de mond\u00e1)\nLamentablemente, por cuestiones de pago de los jugadores, el servidor ya ha sido cerrado, y esta ya ser\u00e1 la \u00faltima vez que veamos La Junta III. Para aquellos que pagaron, su dinero se regresar\u00e1. De todas formas, a\u00fan tenemos un tiempo hasta el 12 de julio para poder pagar y que el servidor vuelva a abrir, pero eso depende completamente de ustedes.\n\nNos vemos en el siguiente proyecto de La Junta 🐉\n\nY para terminar, hemos superado el r\u00e9cord de jugadores m\u00e1ximos a la vez en La Junta. El pasado fue en La Junta 2 con 8 personas jugando a la vez (siendo 9 personas en total en ese servidor) y en este llegamos a las 12 + 1 personas jugando a la vez durante 2 d\u00edas seguidos en el Colapso, estando el servidor completamente lleno (siendo 18 personas en total en este servidor).",
+            "date": "3/07/2024"
         },
  
         "news": [
