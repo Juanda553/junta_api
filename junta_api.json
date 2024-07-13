@@ -20,6 +20,7 @@
         "lastRelaseDownload": "",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
         "serverPrice": 75000,
+        "moneyCollected": 0,
  
         "colores": {
             "background1": "#151515",
