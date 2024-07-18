@@ -1,0 +1,32 @@
+{
+    "last_update": "",
+    "launcher_properties": {
+        "launcherVersion": "2.2.0",
+        "lastRelaseDownload": "",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
+        "serverPrice": 75000,
+        "ip": "juanda553.srvp.ro",
+        
+        "dotMine": ".diomedes",
+        "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-24_00.21.22.png",
+
+        "colores": {
+            "background1": "#151515",
+            "background2": "#2A2A2A",
+            "button1": "#5F5F5F",
+            "button2": "#5F5F5F",
+            "buttonPlay": "#5F5F5F",
+            "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
+            "font1": "#FFFFFF",
+            "font2": "#FFFFFF"
+        },
+    
+        "feature": {
+            "id": "adios_junta_3",
+            "title": "Gracias",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
+            "desc": "La Junta 3: Reborn ha terminado",
+            "date": "18/07/2024"
+        }
+    }
+}

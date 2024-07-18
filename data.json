@@ -1,0 +1,114 @@
+{
+    "last_update": "",
+    "juntaName": "La Junta 4",
+    "juntaVersion": "4.0.0",
+    "forgeVersion": "1.21",
+    "vanillaVersion": "1.21",
+    "indexVersion": "1.17",
+    "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
+
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.5/modpack_3.5.0.zip",
+
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.5.6/update_3.5.6.zip",
+
+    "partners": [
+        {
+            "name": "Muelaepica",
+            "paid": 30000
+        },
+        {
+            "name": "TaysonXs",
+            "paid": 30000
+        },
+        {
+            "name": "Vegetta777 (Mondathias)",
+            "paid": 10000
+        },
+        {
+            "name": "jeidi",
+            "paid": 7000
+        }
+    ],
+ 
+    "deletedMods": [
+
+    ],
+
+    "high_quality": {
+        "version": "4.0",
+        "shaders": "ComplementaryUnbound_r5.2.1.zip",
+
+        "files": [
+            {
+                "name": "Oculus",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "Effective",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "Visuality",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "FreshAnimations",
+                "loc": "resourcepacks/",
+                "download": ""
+            },
+            {
+                "name": "FreshMoves",
+                "loc": "resourcepacks/",
+                "download": ""
+            },
+            {
+                "name": "EntityModelFeatures",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "EntityTextureFeatures",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "RealCamera",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "CaveDust",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "DistantHorizons",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "FallingLeaves",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "",
+                "loc": "mods/",
+                "download": ""
+            },
+            {
+                "name": "",
+                "loc": "mods/",
+                "download": ""
+            }
+        ]
+    }
+}
