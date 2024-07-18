@@ -11,14 +11,15 @@
         "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-24_00.21.22.png",
 
         "colores": {
-            "background1": "#151515",
-            "background2": "#2A2A2A",
-            "button1": "#5F5F5F",
-            "button2": "#5F5F5F",
-            "buttonPlay": "#5F5F5F",
+            "background1": "#000C15",
+            "background2": "#001627",
+            "button1": "#00243C",
+            "button2": "#002540",
+            "buttonPlay": "#3A8ABF",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
-            "font1": "#FFFFFF",
-            "font2": "#FFFFFF"
+            "font1": "#D6F2FF",
+            "font2": "#004479",
+			"border": "#57A9CF"
         },
     
         "feature": {
