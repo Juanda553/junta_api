@@ -1,9 +1,9 @@
 {
     "juntaName": "La Junta 3",
-    "juntaVersion": "3.5.6",
-    "forgeVersion": "1.19.2-forge-43.4.0",
-    "vanillaVersion": "1.19.2",
-    "indexVersion": "1.19",
+    "juntaVersion": "4.0.0",
+    "forgeVersion": "1.21",
+    "vanillaVersion": "1.21",
+    "indexVersion": "1.17",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.5/modpack_3.5.0.zip",
@@ -37,7 +37,7 @@
             "id": "adios_junta_3",
             "title": "Gracias",
             "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
-            "desc": "Muchas gracias por haber jugado en La Junta III: El Colapso <3 (Los que no jugaron que coman 5 planetas de mond\u00e1)\nLamentablemente, por cuestiones de pago de los jugadores, el servidor ya ha sido cerrado, y esta ya ser\u00e1 la \u00faltima vez que veamos La Junta III. Para aquellos que pagaron, su dinero se regresar\u00e1. De todas formas, a\u00fan tenemos un tiempo hasta el 12 de julio para poder pagar y que el servidor vuelva a abrir, pero eso depende completamente de ustedes.\n\nNos vemos en el siguiente proyecto de La Junta 🐉\n\nY para terminar, hemos superado el r\u00e9cord de jugadores m\u00e1ximos a la vez en La Junta. El pasado fue en La Junta 2 con 8 personas jugando a la vez (siendo 9 personas en total en ese servidor) y en este llegamos a las 12 + 1 personas jugando a la vez durante 2 d\u00edas seguidos en el Colapso, estando el servidor completamente lleno (siendo 18 personas en total en este servidor).",
+            "desc": "La Junta 4 ha terminado",
             "date": "3/07/2024"
         },
  
@@ -120,62 +120,48 @@
         ],
  
         "deletedMods": [
-            "mods/Beyond-Earth-1.19.2-7.0-PRERELEASE.jar",
-            "mods/antiqueatlas-8.0.4+itemless-forge-mc1.19.2.jar",
-            "mods/Beyond-Earth-1.19.2-6.4f.jar",
-            "mods/CustomSkinLoader_ForgeActive-14.15-SNAPSHOT-353.jar",
-            "mods/born_in_chaos_[Forge]1.19.2_1.10.1.jar",
-            "mods/beer_craft-1.19.2-1.0.0.jar",
-            "mods/TheOneWhoWatches-V1.3.0-1.19.2.jar",
-            "mods/The-Man-From-The-Fog-1.3-1.19.2.jar",
-            "mods/cave_dweller-1.19.2-1.7.0.jar",
-            "mods/Forge 1.19.2 Minecraft Middle Ages 0.0.4.jar",
-            "mods/monstersandmushrooms-0.0.3-1.19.2.jar",
-            "mods/nyctophobia-dread-3.jar",
-            "mods/The_Graveyard_2.5.3_(FORGE)_for_1.19.2..jar",
-            "mods/Whispers_of_the_Wendigo_0.1.1_1.19.2.jar",
-            "config/fancymenu/assets/imgs/juntacrash3.png",
-            "config/fancymenu/assets/imgs/la_junta_3_mini.png",
-            "config/fancymenu/assets/imgs/lajuntacraft_logo.png",
-            "config/fancymenu/assets/imgs/junta_full_logo.png",
-            "config/fancymenu/assets/imgs/la_junta_3.png",
-            "config/fancymenu/assets/imgs/bgs/2024-06-15_20.21.21.png",
-            "config/fancymenu/assets/imgs/bgs/2024-06-18_00.49.53.png",
-            "config/fancymenu/assets/imgs/bgs/colapso_3.png",
-            "config/fancymenu/assets/imgs/bgs/junta2.png",
-            "config/fancymenu/assets/imgs/bgs/2024-06-15_20.21.21.png",
-            "config/fancymenu/assets/imgs/bgs/junta2.png",
-            "fancymenu_data/last_world.fmdata",
-            "fancymenu_instance_data/extensions/fmaudio/muted_audio_items.properties",
-            "mods/Lunar-forge-1.19.2-0.1.10.jar",
-            "mods/EyesInTheDarkness-1.19.2-1.3.10.jar",
-            "mods/additional_lights-1.19-2.1.6.jar",
-            "mods/rubidium-0.6.2b.jar",
-            "mods/Fusion-1.19.2-5.1.2.2.jar",
-            "mods/SimpleCoreLib-1.19.2-5.1.0.2.jar",
-            "mods/effective_fg-1.3.4.jar",
-            "mods/visuality-forge-2.0.2.jar"
+
         ],
 
         "high_quality": {
-            "version": "1",
+            "version": "4.0",
             "shaders": "ComplementaryUnbound_r5.2.1.zip",
 
-            "mods": [
+            "files": [
                 {
                     "name": "Oculus",
-                    "loc": "mods/oculus-mc1.19.2-1.6.9.jar",
-                    "download": "https://www.curseforge.com/api/v1/mods/581495/files/4763262/download"
+                    "loc": "mods/",
+                    "download": ""
                 },
                 {
                     "name": "Effective",
-                    "loc": "mods/effective_fg-1.3.4.jar",
-                    "download": "https://www.curseforge.com/api/v1/mods/557796/files/4017700/download"
+                    "loc": "mods/",
+                    "download": ""
                 },
                 {
                     "name": "Visuality",
-                    "loc": "mods/visuality-forge-2.0.2.jar",
-                    "download": "https://www.curseforge.com/api/v1/mods/704256/files/4684872/download"
+                    "loc": "mods/",
+                    "download": ""
+                },
+                {
+                    "name": "FreshAnimations",
+                    "loc": "resourcepacks/",
+                    "download": ""
+                },
+                {
+                    "name": "FreshMoves",
+                    "loc": "resourcepacks/",
+                    "download": ""
+                },
+                {
+                    "name": "EntityModelFeatures",
+                    "loc": "mods/",
+                    "download": ""
+                },
+                {
+                    "name": "EntityTextureFeatures",
+                    "loc": "mods/",
+                    "download": ""
                 }
             ]
         }
