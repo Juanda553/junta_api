@@ -2,14 +2,15 @@
     "last_update": "18/07/2024 - 10:02 a.m.",
     "juntaName": "La Junta BETA 4",
     "juntaVersion": "BETA 4.0",
-    "forgeVersion": "1.20.6-forge-50.1.12",
+	"loader": "forge",
+    "modLoaderVersion": "1.20.6-forge-50.1.12",
     "vanillaVersion": "1.20.6",
     "indexVersion": "16",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_4.0/beta_4.0.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_3.5/modpack_3.5.0.zip",
 
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_4.0/beta_4.0.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_3.5.6/update_3.5.6.zip",
 
     "partners": [
         {
