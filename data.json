@@ -1,7 +1,7 @@
 {
     "last_update": "19/07/2024 - 3:07 a.m.",
     "juntaName": "La Junta BETA 4",
-    "juntaVersion": "BETA 4.1",
+    "juntaVersion": "BETA 4.2",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -37,7 +37,7 @@
 
     "high_quality": {
         "version": "4.0",
-        "shaders": "ComplementaryUnbound_r5.2.1.zip",
+        "shaders": "ComplementaryReimagined_r5.2.2",
 
         "files": [
             {
