@@ -48,67 +48,52 @@
             {
                 "name": "Effective",
                 "loc": "mods/effective.jar",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/pcPXJeZi/versions/NdCA6GGy/effective-2.2.1%2B1.20.1.jar"
             },
             {
                 "name": "Visuality",
                 "loc": "mods/visuality.jar",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/rI0hvYcd/versions/uhvQD6Ny/visuality-0.7.1%2B1.20.jar"
             },
             {
                 "name": "FreshAnimations",
                 "loc": "resourcepacks/fresh+animations.zip",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
             },
             {
                 "name": "FreshMoves",
                 "loc": "resourcepacks/fresh+moves.zip",
-                "download": ""
+                "download": "https://www.curseforge.com/minecraft/texture-packs/fresh-moves/download/5304050"
             },
             {
                 "name": "EntityModelFeatures",
                 "loc": "mods/entity_model_feature.jar",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/4I1XuqiY/versions/f3RkrLlq/entity_model_features_fabric_1.20.1-2.1.3.jar"
             },
             {
                 "name": "EntityTextureFeatures",
                 "loc": "mods/entity_texture+feature.jar",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/BVzZfTc1/versions/fqFnWIXs/entity_texture_features_fabric_1.20.1-6.1.3.jar"
             },
             {
                 "name": "RealCamera",
                 "loc": "mods/real_camera.jar",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/fYYSAh4R/versions/zNuo1rxQ/realcamera-1.20.1-fabric-0.6.1-beta.jar"
             },
             {
                 "name": "CaveDust",
                 "loc": "mods/cave_dust.jar",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/jawg7zT1/versions/NPD3ud2m/cave_dust-3.0.0.jar"
             },
             {
                 "name": "DistantHorizons",
                 "loc": "mods/distant_horizons/jar",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar"
             },
             {
                 "name": "FallingLeaves",
                 "loc": "mods/falling_leaves.jar",
-                "download": ""
-            },
-            {
-                "name": "",
-                "loc": "mods/.jar",
-                "download": ""
-            },
-            {
-                "name": "",
-                "loc": "mods/.jar",
-                "download": ""
-            },
-            {
-                "name": "",
-                "loc": "mods/.jar",
-                "download": ""
+                "download": "https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6%2B1.20.1.jar"
             }
         ]
     }
