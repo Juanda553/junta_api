@@ -1,9 +1,9 @@
 {
-    "last_update": "18/07/2024 - 10:02 a.m.",
+    "last_update": "19/07/2024 - 3:07 a.m.",
     "juntaName": "La Junta BETA 4",
-    "juntaVersion": "BETA 4.2",
-	"modLoader": "forge",
-    "modLoaderVersion": "1.20.1-forge-47.3.5",
+    "juntaVersion": "BETA 4.1",
+    "modLoader": "fabric",
+    "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
     "indexVersion": "5",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
@@ -44,6 +44,71 @@
                 "name": "Oculus",
                 "loc": "mods/oculus.jar",
                 "download": "https://cdn.modrinth.com/data/GchcoXML/versions/vVuYfukI/oculus-mc1.20.1-1.7.0.jar"
+            },
+            {
+                "name": "Effective",
+                "loc": "mods/effective.jar",
+                "download": ""
+            },
+            {
+                "name": "Visuality",
+                "loc": "mods/visuality.jar",
+                "download": ""
+            },
+            {
+                "name": "FreshAnimations",
+                "loc": "resourcepacks/fresh+animations.zip",
+                "download": ""
+            },
+            {
+                "name": "FreshMoves",
+                "loc": "resourcepacks/fresh+moves.zip",
+                "download": ""
+            },
+            {
+                "name": "EntityModelFeatures",
+                "loc": "mods/entity_model_feature.jar",
+                "download": ""
+            },
+            {
+                "name": "EntityTextureFeatures",
+                "loc": "mods/entity_texture+feature.jar",
+                "download": ""
+            },
+            {
+                "name": "RealCamera",
+                "loc": "mods/real_camera.jar",
+                "download": ""
+            },
+            {
+                "name": "CaveDust",
+                "loc": "mods/cave_dust.jar",
+                "download": ""
+            },
+            {
+                "name": "DistantHorizons",
+                "loc": "mods/distant_horizons/jar",
+                "download": ""
+            },
+            {
+                "name": "FallingLeaves",
+                "loc": "mods/falling_leaves.jar",
+                "download": ""
+            },
+            {
+                "name": "",
+                "loc": "mods/.jar",
+                "download": ""
+            },
+            {
+                "name": "",
+                "loc": "mods/.jar",
+                "download": ""
+            },
+            {
+                "name": "",
+                "loc": "mods/.jar",
+                "download": ""
             }
         ]
     }
