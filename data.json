@@ -1,7 +1,7 @@
 {
     "last_update": "19/07/2024 - 8:07 a.m.",
     "juntaName": "La Junta BETA 4",
-    "juntaVersion": "BETA 4.32",
+    "juntaVersion": "BETA 4.33",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -74,11 +74,6 @@
                 "name": "FallingLeaves",
                 "loc": "mods/falling_leaves.jar",
                 "download": "https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6%2B1.20.1.jar"
-            },
-            {
-                "name": "DynamicLights",
-                "loc": "mods/dynamic_lights.jar",
-                "download": "https://cdn.modrinth.com/data/yBW8D80W/versions/mYl4RvKg/lambdynamiclights-2.3.2%2B1.20.1.jar"
             },
             {
                 "name": "BubblePop",
