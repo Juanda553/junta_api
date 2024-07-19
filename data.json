@@ -77,7 +77,7 @@
             },
             {
                 "name": "DistantHorizons",
-                "loc": "mods/distant_horizons/jar",
+                "loc": "mods/distant_horizons.jar",
                 "download": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar"
             },
             {
