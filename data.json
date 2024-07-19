@@ -63,7 +63,7 @@
             {
                 "name": "FreshMoves",
                 "loc": "resourcepacks/fresh+moves.zip",
-                "download": "https://www.curseforge.com/minecraft/texture-packs/fresh-moves/download/5304050"
+                "download": "https://cdn.modrinth.com/data/slufHzC2/versions/czKkLETN/Eyeless%20Fresh%20Moves%20v3.0.1.zip"
             },
             {
                 "name": "EntityModelFeatures",
@@ -94,6 +94,26 @@
                 "name": "FallingLeaves",
                 "loc": "mods/falling_leaves.jar",
                 "download": "https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6%2B1.20.1.jar"
+            },
+            {
+                "name": "DynamicLights",
+                "loc": "mods/dynamic_lights.jar",
+                "download": "https://cdn.modrinth.com/data/yBW8D80W/versions/mYl4RvKg/lambdynamiclights-2.3.2%2B1.20.1.jar"
+            },
+            {
+                "name": "BubblePop",
+                "loc": "mods/bubble_pop.jar",
+                "download": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/WyRIJsP5/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar"
+            },
+            {
+                "name": "wakes",
+                "loc": "mods/wakes.jar",
+                "download": "https://cdn.modrinth.com/data/dlNu0RQY/versions/VOHf7p4D/wakes-0.2.4%2B1.20.1.jar"
+            },
+            {
+                "name": "WaveCape",
+                "loc": "mods/wave_cape.jar",
+                "download": "https://cdn.modrinth.com/data/kYuIpRLv/versions/YBKtHcpo/waveycapes-fabric-1.4.8-mc1.20.1.jar"
             }
         ]
     }
