@@ -1,7 +1,7 @@
 {
     "last_update": "19/07/2024 - 8:07 a.m.",
     "juntaName": "La Junta BETA 4",
-    "juntaVersion": "BETA 4.31",
+    "juntaVersion": "BETA 4.32",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -56,7 +56,7 @@
                 "download": "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
             },
             {
-                "name": "BetterVanillaBuilding Overlays",
+                "name": "BetterVanillaBuildingOverlays",
                 "loc": "resourcepacks/connected+cosas+xd.zip",
                 "download": "https://cdn.modrinth.com/data/IsCR9XVF/versions/2RcUI2dV/BVBoverlaysV6.zip"
             },
@@ -94,12 +94,21 @@
                 "name": "WaveCape",
                 "loc": "mods/wave_cape.jar",
                 "download": "https://cdn.modrinth.com/data/kYuIpRLv/versions/YBKtHcpo/waveycapes-fabric-1.4.8-mc1.20.1.jar"
-            }
-            ,
+            },
             {
                 "name": "ElytraPhysics",
                 "loc": "mods/elytra_physics.jar",
                 "download": "https://cdn.modrinth.com/data/jfvCMH0K/versions/uiihaj2v/elytra_physics-fabric-2.0.jar"
+            },
+            {
+                "name": "ExplosiveEnhancement",
+                "loc": "mods/explosive.jar",
+                "download": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/LLkiKipc/explosive-enhancement-1.2.2-1.20.x.jar"
+            },
+            {
+                "name": "Effective",
+                "loc": "mods/effective.jar",
+                "download": "https://github.com/Ladysnake/Effective/releases/download/2.2.1%2B1.20.1/effective-2.2.1+1.20.1.jar"
             }
         ]
     }
