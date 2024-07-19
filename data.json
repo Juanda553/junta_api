@@ -1,7 +1,7 @@
 {
-    "last_update": "19/07/2024 - 8:07 a.m.",
+    "last_update": "19/07/2024 - 8:54 a.m.",
     "juntaName": "La Junta BETA 4",
-    "juntaVersion": "BETA 4.33",
+    "juntaVersion": "BETA 4.34",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -54,11 +54,6 @@
                 "name": "FreshAnimations",
                 "loc": "resourcepacks/fresh+animations.zip",
                 "download": "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
-            },
-            {
-                "name": "BetterVanillaBuildingOverlays",
-                "loc": "resourcepacks/connected+cosas+xd.zip",
-                "download": "https://cdn.modrinth.com/data/IsCR9XVF/versions/2RcUI2dV/BVBoverlaysV6.zip"
             },
             {
                 "name": "CaveDust",
