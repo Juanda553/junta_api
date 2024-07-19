@@ -1,14 +1,14 @@
 {
-    "last_update": "18/07/2024 - 8:40 a.m.",
+    "last_update": "19/07/2024 - 11:14 a.m.",
     "launcher_properties": {
         "launcherVersion": "2.2.0",
         "lastRelaseDownload": "",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_launcher_header.jpg",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_launcher_header.jpg",
         "serverPrice": 75000,
-        "ip": "juanda553.srvp.ro",
+        "ip": "",
         
         "dotMine": ".diomedes",
-        "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-24_00.21.22.png",
+        "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-07-19_10.45.54.png",
 
         "colores": {
             "background1": "#000C15",
@@ -23,11 +23,11 @@
         },
     
         "feature": {
-            "id": "adios_junta_3",
-            "title": "Gracias",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
-            "desc": "La Junta 3: Reborn ha terminado",
-            "date": "18/07/2024"
+            "id": "coming_junta_4",
+            "title": "Proximamente.",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/lajunta4_teaser1.jpg",
+            "desc": "La Junta 4 llegara proximamente",
+            "date": "19/07/2024"
         }
     }
 }
