@@ -66,16 +66,6 @@
                 "download": "https://cdn.modrinth.com/data/slufHzC2/versions/czKkLETN/Eyeless%20Fresh%20Moves%20v3.0.1.zip"
             },
             {
-                "name": "EntityModelFeatures",
-                "loc": "mods/entity_model_feature.jar",
-                "download": "https://cdn.modrinth.com/data/4I1XuqiY/versions/f3RkrLlq/entity_model_features_fabric_1.20.1-2.1.3.jar"
-            },
-            {
-                "name": "EntityTextureFeatures",
-                "loc": "mods/entity_texture+feature.jar",
-                "download": "https://cdn.modrinth.com/data/BVzZfTc1/versions/fqFnWIXs/entity_texture_features_fabric_1.20.1-6.1.3.jar"
-            },
-            {
                 "name": "RealCamera",
                 "loc": "mods/real_camera.jar",
                 "download": "https://cdn.modrinth.com/data/fYYSAh4R/versions/zNuo1rxQ/realcamera-1.20.1-fabric-0.6.1-beta.jar"
