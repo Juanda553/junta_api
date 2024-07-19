@@ -2,7 +2,7 @@
     "last_update": "18/07/2024 - 10:02 a.m.",
     "juntaName": "La Junta BETA 4",
     "juntaVersion": "BETA 4.0",
-	"loader": "forge",
+	"modLoader": "forge",
     "modLoaderVersion": "1.20.6-forge-50.1.12",
     "vanillaVersion": "1.20.6",
     "indexVersion": "16",
