@@ -1,16 +1,16 @@
 {
     "last_update": "19/07/2024 - 8:54 a.m.",
-    "juntaName": "La Junta BETA 4",
-    "juntaVersion": "BETA 4.83",
+    "juntaName": "La Junta 4 BETA 2",
+    "juntaVersion": "BETA 4.84",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
     "indexVersion": "5",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_4.1/update_beta_4.1.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_4.1/relase_beta_4.1.zip",
  
-    "modPackUpdate": "",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_4.1/update_beta_4.1.zip",
 
     "partners": [
         {
