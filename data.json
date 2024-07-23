@@ -35,6 +35,13 @@
 
     ],
 
+    "staff": {
+        "JuanDa553": "Diomedes_1",
+        "Lentinoo": "Diomedes_2",
+        "lFaker": "Diomedes_3",
+        "TheChan15": "Diomedes_4"
+    },
+
     "high_quality": {
         "version": "4.0",
         "shaders": "ComplementaryReimagined_r5.2.2",
