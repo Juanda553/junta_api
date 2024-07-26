@@ -23,11 +23,11 @@
         },
     
         "feature": {
-            "id": "coming_junta_4",
-            "title": "Proximamente.",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_newlogo_teaser.jpg",
-            "desc": "La Junta 4 llegara proximamente",
-            "date": "19/07/2024"
+            "id": "junta4_relase_date",
+            "title": "La Junta IV",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_relase_date.jpg",
+            "desc": "Ve alistando las cosas, guarda la fecha en tu calendario y prep\u00e1rate para este 2 de agosto a partir de las 3 de la tarde (CO) empezar\u00e1 el nuevo servidor de experiencia vanilla, La Junta 4 by JuanDa553 <3",
+            "date": "02/08/2024 - 3:00 p.m."
         }
     }
 }
