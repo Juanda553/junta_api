@@ -1,7 +1,7 @@
 {
     "last_update": "19/07/2024 - 11:14 a.m.",
     "launcher_properties": {
-        "launcherVersion": "2.2.0",
+        "launcherVersion": "2.2.1",
         "lastRelaseDownload": "",
         "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_launcher_header.jpg",
         "serverPrice": 75000,
@@ -25,7 +25,7 @@
         "feature": {
             "id": "coming_junta_4",
             "title": "Proximamente.",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/lajunta4_teaser1.jpg",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_newlogo_teaser.jpg",
             "desc": "La Junta 4 llegara proximamente",
             "date": "19/07/2024"
         }
