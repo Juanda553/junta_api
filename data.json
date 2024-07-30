@@ -1,7 +1,7 @@
 {
     "last_update": "29/07/2024 - 8:20 p.m.",
     "juntaName": "La Junta 4",
-    "juntaVersion": "4.0.01",
+    "juntaVersion": "4.0.02",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -66,11 +66,6 @@
                 "name": "CaveDust",
                 "loc": "mods/cave_dust.jar",
                 "download": "https://cdn.modrinth.com/data/jawg7zT1/versions/NPD3ud2m/cave_dust-3.0.0.jar"
-            },
-            {
-                "name": "DistantHorizons",
-                "loc": "mods/distant_horizons.jar",
-                "download": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar"
             },
             {
                 "name": "FallingLeaves",
