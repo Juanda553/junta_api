@@ -1,16 +1,16 @@
 {
-    "last_update": "19/07/2024 - 8:54 a.m.",
-    "juntaName": "La Junta 4 BETA 6",
-    "juntaVersion": "BETA 4.93",
+    "last_update": "29/07/2024 - 8:20 p.m.",
+    "juntaName": "La Junta 4",
+    "juntaVersion": "4.0.0",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
     "indexVersion": "5",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_4.1/relase_beta_4.1.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/relase_4.0.0.zip",
  
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_4.1/update_beta_4.1.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/update_4.0.zip",
 
     "partners": [
         {
