@@ -12,6 +12,9 @@
  
     "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/update_4.0.zip",
 
+    "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/libs_jnt4.zip",
+    "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/assets_jnt4.zip",
+
     "partners": [
         {
             "name": "Muelaepica",
