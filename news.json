@@ -1,22 +1,30 @@
 {
-    "last_update":"25/07/2024 - 7:37 p.m.",
+    "last_update":"3/08/2024 - 3:39 p.m.",
     "news":[
       {
-         "id":"junta_4_relase_date",
-         "title":"La Junta 4 está llegando",
-         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_update.jpg",
-         "desc":"La Junta 4 iniciar\u00e1 este 2 de agosto!\nPrep\u00e1rense todos para iniciar este nuevo servidor Experiencia Vanilla",
-         "date":"18/07/2024 - 7:37 p.m.",
+         "id":"libs_assets_error",
+         "title":"Error al instalar paquete de La Junta 4",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_alert.jpg",
+         "desc":"Al instalar por primera vez la Junta 4 desde el Launcher, este tira un error que dice \"Unexpected end of ZLIB input stream\" esto es debido a que el paquete de La Junta 4 fue mal instalado haciendo que este se corrompa.\r\n\r\nMas info en Discord",
+         "date":"3/08/2024 - 3:39 p.m.",
          "author":"Juanda"
       },
-       {
-          "id":"next_project_18_07_2024",
-          "title":"Siguiente proyecto",
-          "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_alert.jpg",
-          "desc":"Actualmente me encuentro trabajando en el siguiente proyecto de La Junta que llegará en los próximos días, espero les guste.",
-          "date":"18/07/2024 - 8:40 a.m.",
-          "author":"Juanda"
-       },
+      {
+         "id":"nether_jnt4_open",
+         "title":"The Nether",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_nether_teaser.jpg",
+         "desc":"Este 10 de Agosto a las 12:00 a.m.",
+         "date":"10.08.24",
+         "author":"Juanda"
+      },
+      {
+         "id":"end_jnt4_open",
+         "title":"The End",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_end_teaser.jpg",
+         "desc":"Este 23 de Agosto a las 4:00 p.m. mataremos a la Dragona",
+         "date":"23.08.24 4:00 pm",
+         "author":"Juanda"
+      },
        {
           "id":"patch_3_5_6",
           "title":"Parche 3.5.6",
@@ -64,6 +72,14 @@
           "desc":"Estamos de regreso!",
           "date":"19/05/2024 - 3:17 p.m.",
           "author":"Juanda"
-       }
+       },
+       {
+         "id":"",
+         "title":"",
+         "img":"",
+         "desc":"",
+         "date":"",
+         "author":"Juanda"
+      }
     ]
  }
