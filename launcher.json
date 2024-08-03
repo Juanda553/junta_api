@@ -1,5 +1,5 @@
 {
-    "last_update": "25/07/2024 - 8:53 a.m.",
+    "last_update": "3/08/2024 - 3:48 p.m.",
     "launcher_properties": {
         "launcherVersion": "2.2.2",
         "lastRelaseDownload": "",
@@ -23,11 +23,11 @@
         },
     
         "feature": {
-            "id": "junta4_relase_date",
-            "title": "La Junta IV",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_relase_date.jpg",
-            "desc": "Ve alistando las cosas, guarda la fecha en tu calendario y prep\u00e1rate para este 2 de agosto a partir de las 3 de la tarde (CO) empezar\u00e1 el nuevo servidor de experiencia vanilla, La Junta 4 by JuanDa553 <3",
-            "date": "02/08/2024 - 3:00 p.m."
+            "id": "nether_jnt4_open_feature",
+            "title": "The Nether",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_nether_teaser.jpg",
+            "desc": "El portal será abierto.",
+            "date": "10.08.24 12:00 a.m."
         }
     }
 }
