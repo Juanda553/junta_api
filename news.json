@@ -2,14 +2,6 @@
     "last_update":"3/08/2024 - 3:39 p.m.",
     "news":[
       {
-         "id":"libs_assets_error",
-         "title":"Error al instalar paquete de La Junta 4",
-         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_alert.jpg",
-         "desc":"Al instalar por primera vez la Junta 4 desde el Launcher, este tira un error que dice \"Unexpected end of ZLIB input stream\" esto es debido a que el paquete de La Junta 4 fue mal instalado haciendo que este se corrompa.\r\n\r\nMas info en Discord",
-         "date":"3/08/2024 - 3:39 p.m.",
-         "author":"Juanda"
-      },
-      {
          "id":"nether_jnt4_open",
          "title":"The Nether",
          "img":"https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_nether_teaser.jpg",
