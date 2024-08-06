@@ -1,7 +1,7 @@
 {
     "last_update": "5/08/2024 - 5:10 a.m.",
     "juntaName": "La Junta IV",
-    "juntaVersion": "4.0.21",
+    "juntaVersion": "4.0.2.1",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -10,7 +10,7 @@
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/relase_4.0.0.zip",
  
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_4.0.2/update_4.0.2.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_4.0.3/update_4.0.3.zip",
 
     "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/libs_jnt4.zip",
     "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/assets_jnt4.zip",
@@ -104,7 +104,7 @@
             {
                 "name": "ShadersConfig",
                 "loc": "shaderpacks/ComplementaryReimagined_r5.2.2.zip.txt",
-                "download": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/ComplementaryReimagined_r5.2.2.zip.txt"
+                "download": "https://github.com/Juanda553/junta_api/releases/download/update_4.0.3/ComplementaryReimagined_r5.2.2.zip.txt"
             },
             {
                 "name": "DistantHorizons",
