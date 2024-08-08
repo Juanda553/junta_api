@@ -8,18 +8,18 @@
         "ip": "103.195.103.52:25591",
         
         "dotMine": ".diomedes",
-        "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-05_23.05.29.png",
+        "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-08_00.16.46.png",
 
         "colores": {
-            "background1": "#000C15",
-            "background2": "#001627",
-            "button1": "#00243C",
-            "button2": "#002540",
-            "buttonPlay": "#3A8ABF",
+            "background1": "#150000",
+            "background2": "#270000",
+            "button1": "#3c0000",
+            "button2": "#400000",
+            "buttonPlay": "#bf3a3a",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
-            "font1": "#D6F2FF",
-            "font2": "#004479",
-			"border": "#57A9CF"
+            "font1": "#ffd6d6",
+            "font2": "#790000",
+            "border": "#cf5757"
         },
     
         "feature": {
