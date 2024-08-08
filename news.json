@@ -2,6 +2,14 @@
     "last_update":"3/08/2024 - 3:39 p.m.",
     "news":[
       {
+         "id":"mantenimiento_vultam",
+         "title":"Servidor en Mantenimiento",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
+         "desc":"Actualmente los servicios del alojamiento del servidor están en mantenimiento en nuestra región.",
+         "date":"8/08/24 2:30 AM",
+         "author":"Juanda"
+      },
+      {
          "id":"nether_jnt4_open",
          "title":"The Nether",
          "img":"https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_nether_teaser.jpg",
@@ -66,6 +74,14 @@
           "author":"Juanda"
        },
        {
+         "id":"",
+         "title":"",
+         "img":"",
+         "desc":"",
+         "date":"",
+         "author":"Juanda"
+      },
+      {
          "id":"",
          "title":"",
          "img":"",
