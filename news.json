@@ -1,12 +1,12 @@
 {
-    "last_update":"3/08/2024 - 3:39 p.m.",
+    "last_update":"8/08/2024 - 9:30 a.m.",
     "news":[
       {
-         "id":"mantenimiento_vultam",
-         "title":"Servidor en Mantenimiento",
+         "id":"update_4__1_global",
+         "title":"Actualizaci\u00F3n de contenido v4.1",
          "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
-         "desc":"Actualmente los servicios del alojamiento del servidor están en mantenimiento en nuestra región.",
-         "date":"8/08/24 2:30 AM",
+         "desc":"Nuevo contenido para el servidor como sacos de dormir, martillos y mas!\r\n\r\nToda la info en Discord",
+         "date":"8/08/24 12:00 AM",
          "author":"Juanda"
       },
       {
