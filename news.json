@@ -2,19 +2,19 @@
     "last_update":"8/08/2024 - 9:30 a.m.",
     "news":[
       {
+         "id":"nether_jnt4_avaliable",
+         "title":"The Nether",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_nether_teaser.jpg",
+         "desc":"El Nether ya está disponible!",
+         "date":"10/08/2024 12:00 a.m.",
+         "author":"Juanda"
+      },
+      {
          "id":"update_4__1_global",
          "title":"Actualizaci\u00F3n de contenido v4.1",
          "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
          "desc":"Nuevo contenido para el servidor como sacos de dormir, martillos y mas!\r\n\r\nToda la info en Discord",
          "date":"8/08/24 12:00 AM",
-         "author":"Juanda"
-      },
-      {
-         "id":"nether_jnt4_open",
-         "title":"The Nether",
-         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_nether_teaser.jpg",
-         "desc":"Este 10 de Agosto a las 12:00 a.m.",
-         "date":"10.08.24",
          "author":"Juanda"
       },
       {

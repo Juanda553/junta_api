@@ -25,9 +25,9 @@
         "feature": {
             "id": "nether_jnt4_open_feature",
             "title": "The Nether",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_nether_teaser.jpg",
-            "desc": "El portal será abierto.",
-            "date": "10.08.24 12:00 a.m."
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_nether.jpg",
+            "desc": "El Nether ya está disponible para todo el mundo! Es hora de equiparse con Netherita, en 1 semana vamos por la Dragona./nEl portal Global se encuentra en -95 64 -65",
+            "date": "10/08/24 12:00 a.m."
         }
     }
 }
