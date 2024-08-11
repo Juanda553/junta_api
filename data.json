@@ -1,7 +1,7 @@
 {
     "last_update": "8/08/2024 - 12:00 a.m.",
     "juntaName": "La Junta IV",
-    "juntaVersion": "4.1.0",
+    "juntaVersion": "4.1.1",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -36,7 +36,9 @@
  
     "deletedMods": [
         "shaderpacks/ComplementaryReimagined_r5.2.2.zip.txt.jar",
-        "mods/distant_horizons.jar"
+        "mods/distant_horizons.jar",
+        "mods/inventory_sort-1.2.3+1.20.jar",
+        "mods/owo-lib-0.11.2+1.20.jar"
     ],
 
     "staff": {
