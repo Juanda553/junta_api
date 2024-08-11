@@ -10,19 +10,19 @@
          "author":"Juanda"
       },
       {
+         "id":"end_jnt4_open",
+         "title":"The End",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_end_teaser_NEW.jpg",
+         "desc":"Este 16 de Agosto a las 4:00 p.m. mataremos a la Dragona",
+         "date":"23.08.24 4:00 pm",
+         "author":"Juanda"
+      },
+      {
          "id":"update_4__1_global",
          "title":"Actualizaci\u00F3n de contenido v4.1",
          "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
          "desc":"Nuevo contenido para el servidor como sacos de dormir, martillos y mas!\r\n\r\nToda la info en Discord",
          "date":"8/08/24 12:00 AM",
-         "author":"Juanda"
-      },
-      {
-         "id":"end_jnt4_open",
-         "title":"The End",
-         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/777d6586683d06f4edbed4d4d78b51391e20db7b/img/junta4_end_teaser.jpg",
-         "desc":"Este 23 de Agosto a las 4:00 p.m. mataremos a la Dragona",
-         "date":"23.08.24 4:00 pm",
          "author":"Juanda"
       },
        {
