@@ -21,13 +21,13 @@
             "font2": "#790000",
             "border": "#cf5757"
         },
-    
+
         "feature": {
-            "id": "nether_jnt4_open_feature",
-            "title": "The Nether",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_nether.jpg",
-            "desc": "El Nether ya está disponible para todo el mundo! Es hora de equiparse con Netherita, en 1 semana vamos por la Dragona./nEl portal Global se encuentra en -95 64 -65",
-            "date": "10/08/24 12:00 a.m."
+            "id": "end_jnt4_open_feature",
+            "title": "The End",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_end_teaser_NEW.jpg",
+            "desc": "El End se adelanta 7 d\u00edas a su fecha original, tambi\u00e9n habr\u00e1 un l\u00edmite de jugadores que estar\u00e1n el d\u00eda de la dragona, solo las primeras 4 personas participar\u00e1n en la cacer\u00eda de la dragona.\n\nPrep\u00e1rense",
+            "date": "16/08/24 4:00 p.m."
         }
     }
 }
