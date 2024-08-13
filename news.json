@@ -2,11 +2,11 @@
     "last_update":"8/08/2024 - 9:30 a.m.",
     "news":[
       {
-         "id":"nether_jnt4_avaliable",
-         "title":"The Nether",
-         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_nether.jpg",
-         "desc":"El Nether ya está disponible!",
-         "date":"10/08/2024 12:00 a.m.",
+         "id":"update_4__2_global",
+         "title":"Actualizaci\u00F3n de contenido v4.2",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_update.jpg",
+         "desc":"Actualizaciones de los mods y arreglos menores.\r\n\r\nToda la info en Discord",
+         "date":"13/08/24 12:00 AM",
          "author":"Juanda"
       },
       {
@@ -18,9 +18,17 @@
          "author":"Juanda"
       },
       {
+         "id":"nether_jnt4_avaliable",
+         "title":"The Nether",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_nether.jpg",
+         "desc":"El Nether ya está disponible!\n\nEl portal Global se encuentra en -95 64 -65",
+         "date":"10/08/2024 12:00 a.m.",
+         "author":"Juanda"
+      },
+      {
          "id":"update_4__1_global",
          "title":"Actualizaci\u00F3n de contenido v4.1",
-         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_error.jpg",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_update.jpg",
          "desc":"Nuevo contenido para el servidor como sacos de dormir, martillos y mas!\r\n\r\nToda la info en Discord",
          "date":"8/08/24 12:00 AM",
          "author":"Juanda"

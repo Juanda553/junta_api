@@ -1,25 +1,25 @@
 {
-    "last_update": "3/08/2024 - 3:48 p.m.",
+    "last_update": "13/08/2024 - 12:00 a.m.",
     "launcher_properties": {
         "launcherVersion": "2.2.3",
         "lastRelaseDownload": "",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_launcher_header_nether.jpg",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_launcher_header_end.jpg",
         "serverPrice": 75000,
         "ip": "103.195.103.52:25591",
-        
+
         "dotMine": ".diomedes",
         "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-09_23.51.03.png",
 
         "colores": {
-            "background1": "#150000",
-            "background2": "#270000",
-            "button1": "#3c0000",
-            "button2": "#400000",
-            "buttonPlay": "#bf3a3a",
+            "background1": "#160024",
+            "background2": "#1f0029",
+            "button1": "#2e003d",
+            "button2": "#320042",
+            "buttonPlay": "#b50ced",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
-            "font1": "#ffd6d6",
-            "font2": "#790000",
-            "border": "#cf5757"
+            "font1": "#f4d6ff",
+            "font2": "#5a0079",
+            "border": "#b257cf"
         },
 
         "feature": {
