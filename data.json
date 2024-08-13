@@ -1,7 +1,7 @@
 {
     "last_update": "8/08/2024 - 12:00 a.m.",
     "juntaName": "La Junta IV",
-    "juntaVersion": "4.2.0.1",
+    "juntaVersion": "4.2",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
