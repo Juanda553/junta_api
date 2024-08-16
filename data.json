@@ -1,7 +1,7 @@
 {
     "last_update": "8/08/2024 - 12:00 a.m.",
     "juntaName": "La Junta IV",
-    "juntaVersion": "4.2",
+    "juntaVersion": "4.3",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -10,27 +10,15 @@
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/relase_4.0.0.zip",
  
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_4.2.0/update_4.2.0.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_4.3/update_4.3.0.zip",
 
     "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/libs_jnt4.zip",
     "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/assets_jnt4.zip",
 
     "partners": [
         {
-            "name": "Muelaepica",
-            "paid": 30000
-        },
-        {
-            "name": "TaysonXs",
-            "paid": 30000
-        },
-        {
-            "name": "Pichagoras",
-            "paid": 10000
-        },
-        {
-            "name": "jeidi",
-            "paid": 7000
+            "name": "Nadie ha pagado",
+            "paid": 0
         }
     ],
  
@@ -50,7 +38,8 @@
         "mods/resourcefullib-fabric-1.20.1-2.1.25.jar",
         "mods/voicechat-fabric-1.20.1-2.5.19.jar",
         "mods/trade-cycling-fabric-1.20.1-1.0.10.jar",
-        "resourcepacks/fresh+animations.zip"
+        "resourcepacks/fresh+animations.zip",
+        "mods/jnt-1.0.0.jar"
     ],
 
     "staff": {

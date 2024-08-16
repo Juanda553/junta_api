@@ -1,12 +1,12 @@
 {
-    "last_update":"8/08/2024 - 9:30 a.m.",
+    "last_update":"16/08/2024 - 12:00 a.m.",
     "news":[
       {
-         "id":"update_4__2_global",
-         "title":"Actualizaci\u00F3n de contenido v4.2",
+         "id":"update_4__3_global",
+         "title":"Actualizaci\u00F3n de contenido v4.3",
          "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_update.jpg",
-         "desc":"Actualizaciones de los mods y arreglos menores.\r\n\r\nToda la info en Discord",
-         "date":"13/08/24 12:00 AM",
+         "desc":"Mejoras minimas en rendimiento y HUD. Tambien logros nuevos.\r\n\r\nToda la info en Discord",
+         "date":"16/08/24 12:00 AM",
          "author":"Juanda"
       },
       {
@@ -23,6 +23,14 @@
          "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_nether.jpg",
          "desc":"El Nether ya está disponible!\n\nEl portal Global se encuentra en -95 64 -65",
          "date":"10/08/2024 12:00 a.m.",
+         "author":"Juanda"
+      },
+      {
+         "id":"update_4__2_global",
+         "title":"Actualizaci\u00F3n de contenido v4.2",
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta_update.jpg",
+         "desc":"Actualizaciones de los mods y arreglos menores.\r\n\r\nToda la info en Discord",
+         "date":"13/08/24 12:00 AM",
          "author":"Juanda"
       },
       {
