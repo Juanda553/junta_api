@@ -55,6 +55,10 @@
     "high_quality": {
         "version": "4.0",
         "shaders": "ComplementaryReimagined_r5.2.2",
+        "full_world": {
+            "size": "1.13GB",
+            "download": "https://github.com/Juanda553/junta_api/releases/download/update_4.3/Distant_Horizons_server_data.zip"
+        },
 
         "files": [
             {
