@@ -23,11 +23,19 @@
         },
 
         "feature": {
-            "id": "end_jnt4_open_feature",
-            "title": "The End",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_end_teaser_NEW.jpg",
-            "desc": "El End se adelanta 7 d\u00edas a su fecha original, tambi\u00e9n habr\u00e1 un l\u00edmite de jugadores que estar\u00e1n el d\u00eda de la dragona, solo las primeras 4 personas participar\u00e1n en la cacer\u00eda de la dragona.\n\nPrep\u00e1rense",
-            "date": "16/08/24 4:00 p.m."
+            "id": "thanks_end_event",
+            "title": "Gracias por participar en The END",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/heart.png",
+            "desc": "Muchas gracias a todos los que participaron en el Evento The End\r\n\r\n- NeuSpirit\r\n- DanKz26\r\n- TaysonXs\r\n- Y mi persona, JuanDa553",
+            "date": "17/08/2024"
+        },
+
+        "feature_ingame": {
+            "id": "thanks_end_event_ingame",
+            "title": "Gracias por participar en The END",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/heart.png",
+            "desc": "Muchas gracias a todos los que participaron en el Evento The End\r\n\r\n- NeuSpirit\r\n- DanKz26\r\n- TaysonXs\r\n- Y mi persona, JuanDa553",
+            "date": "17/08/2024"
         }
     }
 }
