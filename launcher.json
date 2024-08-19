@@ -25,7 +25,7 @@
         "feature": {
             "id": "thanks_end_event",
             "title": "Gracias por participar en The END",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/heart.png",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/heart.png",
             "desc": "Muchas gracias a todos los que participaron en el Evento The End\r\n\r\n- NeuSpirit\r\n- DanKz26\r\n- TaysonXs\r\n- Y mi persona, JuanDa553",
             "date": "17/08/2024"
         },
@@ -33,7 +33,7 @@
         "feature_ingame": {
             "id": "thanks_end_event_ingame",
             "title": "Gracias por participar en The END",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/heart.png",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/heart.png",
             "desc": "Muchas gracias a todos los que participaron en el Evento The End\r\n\r\n- NeuSpirit\r\n- DanKz26\r\n- TaysonXs\r\n- Y mi persona, JuanDa553",
             "date": "17/08/2024"
         }
