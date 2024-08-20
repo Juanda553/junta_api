@@ -1,122 +1,122 @@
 {
-  "last_update": "19/08/2024 - 12:00 a.m.",
-  "news": [
-    {
-      "id": "update_4__3_global",
-      "title": "Actualizaci\u00F3n de contenido v4.3",
-      "custom_img": false,
-      "img": "update",
-      "desc": "Mejoras minimas en rendimiento y HUD. Tambien logros nuevos.\r\n\r\nToda la info en Discord",
-      "date": "16/08/24 12:00 AM",
-      "author": "Juanda"
-    },
-    {
-      "id": "end_jnt4_avaliable",
-      "title": "The End",
-      "custom_img": true,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-02_02.04.22.png",
-      "desc": "End ya disponible!\r\n\r\nPortal global en 275, 9, 1675",
-      "date": "23.08.24 4:00 pm",
-      "author": "Juanda"
-    },
-    {
-      "id": "nether_jnt4_avaliable",
-      "title": "The Nether",
-      "custom_img": true,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-09_23.51.03.png",
-      "desc": "El Nether ya está disponible!\n\nEl portal Global se encuentra en -95 64 -65",
-      "date": "10/08/2024 12:00 a.m.",
-      "author": "Juanda"
-    },
-    {
-      "id": "update_4__2_global",
-      "title": "Actualizaci\u00F3n de contenido v4.2",
-      "custom_img": false,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/update.png",
-      "desc": "Actualizaciones de los mods y arreglos menores.\r\n\r\nToda la info en Discord",
-      "date": "13/08/24 12:00 AM",
-      "author": "Juanda"
-    },
-    {
-      "id": "update_4__1_global",
-      "title": "Actualizaci\u00F3n de contenido v4.1",
-      "custom_img": false,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/update.png",
-      "desc": "Nuevo contenido para el servidor como sacos de dormir, martillos y mas!\r\n\r\nToda la info en Discord",
-      "date": "8/08/24 12:00 AM",
-      "author": "Juanda"
-    },
-    {
-      "id": "patch_3_5_6",
-      "title": "Parche 3.5.6",
-      "custom_img": false,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/update.png",
-      "desc": "Finalmente el problema de los cristales conectados que no ten\u00edan texturas ha sido corregido.\n\nDe nuevo sus ajustes de teclas y eso se reiniciaron XD, disculpen",
-      "date": "30/06/2024 - 4:19 a.m.",
-      "author": "Juanda"
-    },
-    {
-      "id": "crash_warden",
-      "title": "Crasheos del servidor.",
-      "custom_img": false,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/broken.png",
-      "desc": "Actualmente, el servidor est\u00e1 presentando fallas debido a que tratando de dar a un jugador un efecto de poci\u00f3n que \"no existe\"\n\nTraten de no intentar tener contacto con ning\u00fan Warden por el momento. Si el servidor crashea y ning\u00fan jugador estuvo cerca de un warden o de una ancient city, rep\u00f3rtenlo enseguida. M\u00e1s informaci\u00f3n en el Discord y el canal de WhatsApp",
-      "date": "27/06/2024 - 11:26 p.m.",
-      "author": "Juanda"
-    },
-    {
-      "id": "mantenimiento_29_06_2024",
-      "title": "Mantenimiento (Terminado)",
-      "custom_img": false,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/maintenance.png",
-      "desc": "Servidor en mantenimiento para tratar de corregir errores como \"Ha tomado mucho tiempo en conectar\" o crasheos por warden.\n\nEl mantenimiento ha acabado a las 10:48 p.m. del mismo dia",
-      "date": "29/06/2024 - 7:21 p.m.",
-      "author": "lFaker - Juanda"
-    },
-    {
-      "id": "launcher_relase_v2_1_0",
-      "title": "Actualizacion 2.1 del Launcher",
-      "custom_img": false,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/update.png",
-      "desc": "Nueva versi\u00f3n para el Launcher de La Junta ya disponible!\n\nFinalmente el modo de alta calidad est\u00e1 aqu\u00ed!\nTambi\u00e9n la secci\u00f3n de noticias y la ventana de ajustes. Toda la informaci\u00f3n en Discord.",
-      "date": "28/06/2024 - 05:41 a.m.",
-      "author": "Juanda"
-    },
-    {
-      "id": "participantes_iniciales",
-      "title": "Gracias!",
-      "custom_img": true,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
-      "desc": "Gracias a los que estuvieron en la apertura de La Junta III: El Colapso <3",
-      "date": "15/06/2024 - 12:00 a.m.",
-      "author": "Juanda"
-    },
-    {
-      "id": "reopen",
-      "title": "REAPERTURA!",
-      "custom_img": true,
-      "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/LaJuntaBack.jpg",
-      "desc": "Estamos de regreso!",
-      "date": "19/05/2024 - 3:17 p.m.",
-      "author": "Juanda"
-    },
-    {
-      "id": "",
-      "title": "",
-      "custom_img": true,
-      "img": "",
-      "desc": "",
-      "date": "",
-      "author": "Juanda"
-    },
-    {
-      "id": "",
-      "title": "",
-      "custom_img": true,
-      "img": "",
-      "desc": "",
-      "date": "",
-      "author": "Juanda"
-    }
-  ]
+   "last_update":"19/08/2024 - 12:00 a.m.",
+   "news":[
+     {
+        "id":"update_4__3_global",
+        "title":"Actualizaci\u00F3n de contenido v4.3",
+        "custom_img": false,
+        "img":"update",
+        "desc":"Mejoras minimas en rendimiento y HUD. Tambien logros nuevos.\r\n\r\nToda la info en Discord",
+        "date":"16/08/24 12:00 AM",
+        "author":"Juanda"
+     },
+     {
+        "id":"end_jnt4_avaliable",
+        "title":"The End",
+        "custom_img": true,
+        "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-02_02.04.22.png",
+        "desc":"End ya disponible!\r\n\r\nPortal global en 275, 9, 1675",
+        "date":"23.08.24 4:00 pm",
+        "author":"Juanda"
+     },
+     {
+        "id":"nether_jnt4_avaliable",
+        "title":"The Nether",
+        "custom_img": true,
+        "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-09_23.51.03.png",
+        "desc":"El Nether ya está disponible!\n\nEl portal Global se encuentra en -95 64 -65",
+        "date":"10/08/2024 12:00 a.m.",
+        "author":"Juanda"
+     },
+     {
+        "id":"update_4__2_global",
+        "title":"Actualizaci\u00F3n de contenido v4.2",
+        "custom_img": false,
+        "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/update.png",
+        "desc":"Actualizaciones de los mods y arreglos menores.\r\n\r\nToda la info en Discord",
+        "date":"13/08/24 12:00 AM",
+        "author":"Juanda"
+     },
+     {
+        "id":"update_4__1_global",
+        "title":"Actualizaci\u00F3n de contenido v4.1",
+        "custom_img": false,
+        "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/update.png",
+        "desc":"Nuevo contenido para el servidor como sacos de dormir, martillos y mas!\r\n\r\nToda la info en Discord",
+        "date":"8/08/24 12:00 AM",
+        "author":"Juanda"
+     },
+      {
+         "id":"patch_3_5_6",
+         "title":"Parche 3.5.6",
+         "custom_img": false,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/update.png",
+         "desc":"Finalmente el problema de los cristales conectados que no ten\u00edan texturas ha sido corregido.\n\nDe nuevo sus ajustes de teclas y eso se reiniciaron XD, disculpen",
+         "date":"30/06/2024 - 4:19 a.m.",
+         "author":"Juanda"
+      },
+      {
+         "id":"crash_warden",
+         "title":"Crasheos del servidor.",
+         "custom_img": false,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/broken.png",
+         "desc":"Actualmente, el servidor est\u00e1 presentando fallas debido a que tratando de dar a un jugador un efecto de poci\u00f3n que \"no existe\"\n\nTraten de no intentar tener contacto con ning\u00fan Warden por el momento. Si el servidor crashea y ning\u00fan jugador estuvo cerca de un warden o de una ancient city, rep\u00f3rtenlo enseguida. M\u00e1s informaci\u00f3n en el Discord y el canal de WhatsApp",
+         "date":"27/06/2024 - 11:26 p.m.",
+         "author":"Juanda"
+      },
+      {
+         "id":"mantenimiento_29_06_2024",
+         "title":"Mantenimiento (Terminado)",
+         "custom_img": false,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/maintenance.png",
+         "desc":"Servidor en mantenimiento para tratar de corregir errores como \"Ha tomado mucho tiempo en conectar\" o crasheos por warden.\n\nEl mantenimiento ha acabado a las 10:48 p.m. del mismo dia",
+         "date":"29/06/2024 - 7:21 p.m.",
+         "author":"lFaker - Juanda"
+      },
+      {
+         "id":"launcher_relase_v2_1_0",
+         "title":"Actualizacion 2.1 del Launcher",
+         "custom_img": false,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/resized/update.png",
+         "desc":"Nueva versi\u00f3n para el Launcher de La Junta ya disponible!\n\nFinalmente el modo de alta calidad est\u00e1 aqu\u00ed!\nTambi\u00e9n la secci\u00f3n de noticias y la ventana de ajustes. Toda la informaci\u00f3n en Discord.",
+         "date":"28/06/2024 - 05:41 a.m.",
+         "author":"Juanda"
+      },
+      {
+         "id":"participantes_iniciales",
+         "title":"Gracias!",
+         "custom_img": true,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-06-14_17.20.33.png",
+         "desc":"Gracias a los que estuvieron en la apertura de La Junta III: El Colapso <3",
+         "date":"15/06/2024 - 12:00 a.m.",
+         "author":"Juanda"
+      },
+      {
+         "id":"reopen",
+         "title":"REAPERTURA!",
+         "custom_img": true,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/main/img/LaJuntaBack.jpg",
+         "desc":"Estamos de regreso!",
+         "date":"19/05/2024 - 3:17 p.m.",
+         "author":"Juanda"
+      },
+      {
+        "id":"",
+        "title":"",
+        "custom_img": true,
+        "img":"",
+        "desc":"",
+        "date":"",
+        "author":"Juanda"
+     },
+     {
+        "id":"",
+        "title":"",
+        "custom_img": true,
+        "img":"",
+        "desc":"",
+        "date":"",
+        "author":"Juanda"
+     }
+   ]
 }
