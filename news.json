@@ -11,6 +11,15 @@
         "author":"Juanda"
      },
      {
+      "id":"launcher_update_2_3",
+      "title":"Actualizaci\u00F3n del Launcher v2.3",
+      "custom_img": false,
+      "img":"update",
+      "desc":"Modo lite, cambios de nombre y mejoras en HUD de los ajuste y mas! \r\n\r\nToda la info en Discord",
+      "date":"20/08/24 12:00 AM",
+      "author":"Juanda"
+      },
+     {
         "id":"end_jnt4_avaliable",
         "title":"The End",
         "custom_img": true,
