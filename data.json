@@ -21,6 +21,10 @@
 
     "partners": [
         {
+            "name": "cierragamer",
+            "paid": 20000
+        },
+        {
             "name": "TaysonXs",
             "paid": 9000
         },
