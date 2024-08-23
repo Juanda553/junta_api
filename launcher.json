@@ -3,7 +3,7 @@
     "launcher_properties": {
         "launcherVersion": "2.3.2",
         "lastRelaseDownload": "",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_launcher_header_end.jpg",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_launcher_header.jpg",
         "serverPrice": 75000,
         "ip": "103.195.103.52:25591",
 
@@ -11,15 +11,15 @@
         "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-02_02.04.22.png",
 
         "colores": {
-            "background1": "#160024",
-            "background2": "#1f0029",
-            "button1": "#2e003d",
-            "button2": "#320042",
-            "buttonPlay": "#b50ced",
+            "background1": "#000C15",
+            "background2": "#001627",
+            "button1": "#00243C",
+            "button2": "#002540",
+            "buttonPlay": "#3A8ABF",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
-            "font1": "#f4d6ff",
-            "font2": "#5a0079",
-            "border": "#b257cf"
+            "font1": "#D6F2FF",
+            "font2": "#004479",
+			"border": "#57A9CF"
         },
 
         "feature": {
