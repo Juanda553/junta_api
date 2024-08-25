@@ -25,6 +25,10 @@
             "paid": 20000
         },
         {
+            "name": "NeuSpirit",
+            "paid": 12000
+        },
+        {
             "name": "Pichagoras",
             "paid": 10000
         },
@@ -35,10 +39,6 @@
         {
             "name": "PipeZv",
             "paid": 1000
-        },
-        {
-            "name": "NeuSpirit",
-            "paid": 12000
         }
     ],
  
