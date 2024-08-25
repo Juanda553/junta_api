@@ -1,7 +1,7 @@
 {
-    "last_update": "8/08/2024 - 12:00 a.m.",
+    "last_update": "25/08/2024 - 3:55 a.m.",
     "juntaName": "La Junta IV",
-    "juntaVersion": "4.3.2",
+    "juntaVersion": "4.3.4",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -57,7 +57,24 @@
         "resourcepacks/fresh+animations.zip",
         "mods/jnt-1.0.0.jar",
         "mods/inventoryhud.fabric.1.20.1-3.4.23.jar",
-        "mods/jnt-1.1.0.jar"
+        "mods/jnt-1.1.0.jar",
+        "mods/skinlayers3d-fabric-1.6.6-mc1.20.1.jar",
+        "mods/AmbientSounds_FABRIC_v6.0.3_mc1.20.1.jar",
+        "mods/chat_heads-0.12.10-fabric-1.20.jar",
+        "mods/CraterLib-Fabric-1.20-2.0.3.jar",
+        "mods/deeperdarker-fabric-1.20-1.2.6.jar",
+        "mods/easy_npc-fabric-1.20.1-5.5.0.jar",
+        "mods/entity_model_features_fabric_1.20.1-2.1.3.jar",
+        "mods/entity_texture_features_fabric_1.20.1-6.1.3.jar",
+        "mods/entityculling-fabric-1.6.6-mc1.20.1.jar",
+        "mods/Jade-1.20-fabric-11.10.0.jar",
+        "mods/jei-1.20.1-fabric-15.12.1.46.jar",
+        "mods/notenoughanimations-fabric-1.7.4-mc1.20.1.jar",
+        "mods/resourcefullib-fabric-1.20.1-2.1.28.jar",
+        "mods/trade-cycling-fabric-1.20.1-1.0.13.jar",
+        "mods/waystones-fabric-1.20-14.1.4.jar",
+        "mods/Xaeros_Minimap_24.2.0_Fabric_1.20.jar",
+        "mods/XaerosWorldMap_1.38.8_Fabric_1.20.jar"
     ],
 
     "staff": {
@@ -105,12 +122,12 @@
             {
                 "name": "wakes",
                 "loc": "mods/wakes.jar",
-                "download": "https://cdn.modrinth.com/data/dlNu0RQY/versions/VOHf7p4D/wakes-0.2.4%2B1.20.1.jar"
+                "download": "https://cdn.modrinth.com/data/dlNu0RQY/versions/lsSmeonD/wakes-0.3.0%2B1.20.1.jar"
             },
             {
                 "name": "WaveCape",
                 "loc": "mods/wave_cape.jar",
-                "download": "https://cdn.modrinth.com/data/kYuIpRLv/versions/YBKtHcpo/waveycapes-fabric-1.4.8-mc1.20.1.jar"
+                "download": "https://cdn.modrinth.com/data/kYuIpRLv/versions/dGGbcsvh/waveycapes-fabric-1.4.9-mc1.20.1.jar"
             },
             {
                 "name": "ElytraPhysics",
@@ -130,7 +147,7 @@
             {
                 "name": "DistantHorizons",
                 "loc": "mods/distant_horizons.jar",
-                "download": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar"
+                "download": "https://cdn.modrinth.com/data/uCdwusMi/versions/HH9YLh1q/DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar"
             }
         ]
     },
@@ -141,15 +158,15 @@
         "files": [
             {
                 "name": "Entity Texture Features",
-                "version": "6.1.3",
-                "loc": "mods/entity_texture_features_fabric_1.20.1-6.1.3.jar",
-                "download": "https://cdn.modrinth.com/data/BVzZfTc1/versions/fqFnWIXs/entity_texture_features_fabric_1.20.1-6.1.3.jar"
+                "version": "6.2.1",
+                "loc": "mods/entity_texture_features_fabric_1.20.1-6.2.1.jar",
+                "download": "https://cdn.modrinth.com/data/BVzZfTc1/versions/iM9n0zE4/entity_texture_features_fabric_1.20.1-6.2.1.jar"
             },
             {
                 "name": "Entity Model Features",
-                "version": "2.1.3",
-                "loc": "mods/entity_model_features_fabric_1.20.1-2.1.3.jar",
-                "download": "https://cdn.modrinth.com/data/4I1XuqiY/versions/f3RkrLlq/entity_model_features_fabric_1.20.1-2.1.3.jar"
+                "version": "2.2.2",
+                "loc": "mods/entity_model_features_fabric_1.20.1-2.2.jar",
+                "download": "https://cdn.modrinth.com/data/4I1XuqiY/versions/BQzSPC9r/entity_model_features_fabric_1.20.1-2.2.jar"
             },
             {
                 "name": "Eating Animation",
@@ -171,15 +188,15 @@
             },
             {
                 "name": "Ambient Sounds",
-                "version": "6.0.3",
-                "loc": "mods/AmbientSounds_FABRIC_v6.0.3_mc1.20.1.jar",
-                "download": "https://cdn.modrinth.com/data/fM515JnW/versions/zTT9Dzv8/AmbientSounds_FABRIC_v6.0.3_mc1.20.1.jar"
+                "version": "6.0.5",
+                "loc": "mods/AmbientSounds_FABRIC_v6.0.5_mc1.20.1.jar",
+                "download": "https://cdn.modrinth.com/data/fM515JnW/versions/KXKPInZV/AmbientSounds_FABRIC_v6.0.5_mc1.20.1.jar"
             },
             {
                 "name": "Skin 3D Layer",
-                "version": "1.6.6",
-                "loc": "mods/skinlayers3d-fabric-1.6.6-mc1.20.1.jar",
-                "download": "https://cdn.modrinth.com/data/zV5r3pPn/versions/nMrKSYUo/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
+                "version": "1.6.7",
+                "loc": "mods/skinlayers3d-fabric-1.6.7-mc1.20.1.jar",
+                "download": "https://cdn.modrinth.com/data/zV5r3pPn/versions/kFPX5Wmk/skinlayers3d-fabric-1.6.7-mc1.20.1.jar"
             },
             {
                 "name": "Pick Up Notifier",
@@ -189,9 +206,9 @@
             },
             {
                 "name": "Not Enough Animations",
-                "version": "1.7.4",
-                "loc": "mods/notenoughanimations-fabric-1.7.4-mc1.20.1.jar",
-                "download": "https://cdn.modrinth.com/data/MPCX6s5C/versions/hevbf7OI/notenoughanimations-fabric-1.7.4-mc1.20.1.jar"
+                "version": "1.7.5",
+                "loc": "mods/notenoughanimations-fabric-1.7.5-mc1.20.1.jar",
+                "download": "https://cdn.modrinth.com/data/MPCX6s5C/versions/EKnlOSzs/notenoughanimations-fabric-1.7.5-mc1.20.1.jar"
             },
             {
                 "name": "Mouse Tweaks",
@@ -201,9 +218,9 @@
             },
             {
                 "name": "Jade",
-                "version": "11.10.0",
-                "loc": "mods/Jade-1.20-fabric-11.10.0.jar",
-                "download": "https://cdn.modrinth.com/data/nvQzSEkH/versions/vlM1OUBd/Jade-1.20-fabric-11.10.0.jar"
+                "version": "11.10.2",
+                "loc": "mods/Jade-1.20-fabric-11.10.2.jar",
+                "download": "https://cdn.modrinth.com/data/nvQzSEkH/versions/XTAUVfnD/Jade-1.20-fabric-11.10.2.jar"
             },
             {
                 "name": "Item Highlighter",
@@ -225,9 +242,9 @@
             },
             {
                 "name": "Chat Heads",
-                "version": "0.12.10",
-                "loc": "mods/chat_heads-0.12.10-fabric-1.20.jar",
-                "download": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/vbbrzIWl/chat_heads-0.12.10-fabric-1.20.jar"
+                "version": "0.12.13",
+                "loc": "mods/chat_heads-0.12.13-fabric-1.20",
+                "download": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/MdoSw2dL/chat_heads-0.12.13-fabric-1.20.jar"
             }
         ]
     }
