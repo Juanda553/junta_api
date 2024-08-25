@@ -1,5 +1,5 @@
 {
-   "last_update":"23/08/2024 - 11:36 a.m.",
+   "last_update":"25/08/24 - 4:25 AM",
    "news":[
       {
          "id":"lite_mode",
@@ -8,6 +8,16 @@
          "img":"fixed",
          "desc":"El modo Lite desactiva varios mods para poder mejorar el mucho rendimiento del juego y aumentar dr\u00E1sticamente los FPS, est\u00E1 dise\u00F1ado para jugadores con PC de bajos recursos, para que puedan jugar con un rendimiento decente.\r\nPara activarlo hay que ir a los ajustes desde el launcher y marcar la opci\u00F3n Modo Lite, y luego darle aplicar.",
          "date":"23/08/24 11:36 AM",
+         "author":"Juanda",
+         "buttons": []
+      },
+      {
+         "id":"shaders_temp_disabled",
+         "title":"Sahders desactivados temporalmente",
+         "custom_img": false,
+         "img":"broken",
+         "desc":"Los shaders ser\u00E1n desactivados temporalmente mientras se soluciona un error de crash instantaneo.\r\n\r\nOJO ESTO NO DEPENDE DE MI, esto depende de los desarrolladores del Iris Mod que son los que hacen el mod de los shaders para Fabric.",
+         "date":"25/08/24 4:25 AM",
          "author":"Juanda",
          "buttons": []
          },
