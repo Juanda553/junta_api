@@ -13,7 +13,7 @@
       },
       {
          "id":"shaders_temp_disabled",
-         "title":"Sahders desactivados temporalmente",
+         "title":"Shaders desactivados temporalmente",
          "custom_img": false,
          "img":"broken",
          "desc":"Los shaders ser\u00E1n desactivados temporalmente mientras se soluciona un error de crash instantaneo.\r\n\r\nOJO ESTO NO DEPENDE DE MI, esto depende de los desarrolladores del Iris Mod que son los que hacen el mod de los shaders para Fabric.",
