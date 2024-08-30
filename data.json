@@ -1,7 +1,7 @@
 {
     "last_update": "25/08/2024 - 3:55 a.m.",
     "juntaName": "La Junta IV",
-    "juntaVersion": "4.3.43",
+    "juntaVersion": "4.3.5",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.0-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -137,7 +137,7 @@
             {
                 "name": "wakes",
                 "loc": "mods/wakes.jar",
-                "download": "https://cdn.modrinth.com/data/dlNu0RQY/versions/lsSmeonD/wakes-0.3.0%2B1.20.1.jar"
+                "download": "https://cdn.modrinth.com/data/dlNu0RQY/versions/VOHf7p4D/wakes-0.2.4%2B1.20.1.jar"
             },
             {
                 "name": "WaveCape",
