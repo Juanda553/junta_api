@@ -23,18 +23,18 @@
         },
 
         "feature": {
-            "id": "thanks_end_event",
-            "title": "Gracias por participar en The END",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/heart.png",
-            "desc": "Muchas gracias a todos los que participaron en el Evento The End\r\n\r\n- NeuSpirit\r\n- DanKz26\r\n- TaysonXs\r\n\r\nPortal global en 275, 9, 1675",
-            "date": "17/08/2024"
+            "id": "warden_portal",
+            "title": "Pronto",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/warden.png",
+            "desc": "A\u00FAn hay algo por hacer.",
+            "date": "11/09/2024"
         },
 
         "feature_ingame": {
-            "id": "thanks_end_event_ingame",
-            "title": "Thx x participar (END)",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/status_img/heart.png",
-            "date": "17/08/2024"
+            "id": "warden_portal_featured",
+            "title": "A\u00FAn hay algo por hacer.",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/warden.png",
+            "date": "11/09/2024"
         }
     }
 }
