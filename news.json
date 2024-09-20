@@ -2,6 +2,16 @@
    "last_update":"25/08/24 - 4:25 AM",
    "news":[
       {
+         "id":"goddbye_jn4",
+         "title":"Cierre de la Junta 4",
+         "custom_img": true,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/goodbye%20jnt4.jpg",
+         "desc":"El servidor cerrar\u00E1 el d\u00EDa 28 de Septiembre a las 12 de la madrugada.",
+         "date":"19/09/2024 - 10:57 p.m.",
+         "author":"Juanda",
+         "buttons": []
+      },
+      {
          "id":"lite_mode",
          "title":"Nuevo modo Lite!",
          "custom_img": false,

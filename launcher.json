@@ -3,7 +3,7 @@
     "launcher_properties": {
         "launcherVersion": "2.3.2",
         "lastRelaseDownload": "",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta4_launcher_header.jpg",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/launcher_header.jpg",
         "serverPrice": 76000,
         "ip": "103.195.103.52:25591",
 
@@ -11,30 +11,30 @@
         "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-02_02.04.22.png",
 
         "colores": {
-            "background1": "#000C15",
-            "background2": "#001627",
-            "button1": "#00243C",
-            "button2": "#002540",
-            "buttonPlay": "#3A8ABF",
+            "background1": "#181818",
+            "background2": "#282828",
+            "button1": "#414141",
+            "button2": "#414141",
+            "buttonPlay": "#7d7d7d",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
-            "font1": "#D6F2FF",
-            "font2": "#004479",
-			"border": "#57A9CF"
+            "font1": "#ffffff",
+            "font2": "#ffffff",
+			"border": "#ffffff"
         },
 
         "feature": {
-            "id": "warden_portal",
+            "id": "goddbye_jn4",
             "title": "Pronto",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/warden.png",
-            "desc": "A\u00FAn hay algo por hacer.",
-            "date": "11/09/2024"
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/goodbye%20jnt4.jpg",
+            "desc": "Muchas gracias por haber jugado a la Junta 4, fue divertido los 2 meses de duraci\u00F3n de este servidor, pero por la falta de actividad y moral de seguir jugando, he decido ya darle fin a La Junta 4. El servidor se cerrar\u00E1 el 28 de Septiembre a las 12:00 a.m.\r\n\r\nPor ahora esa ser\u00E1 la decisi\u00F3n, aunque recuerden que todos ustedes tambi\u00E9n tienen un gran peso en la decisi\u00F3n de cerrar o no el servidor, si quieren seguir jugando en La Junta 4, avisen y veremos si se renueva el tercer mes del servidor.",
+            "date": "28/09/2024 - 12:00 a.m."
         },
 
         "feature_ingame": {
-            "id": "warden_portal_featured",
-            "title": "A\u00FAn hay algo por hacer.",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/warden.png",
-            "date": "11/09/2024"
+            "id": "goddbye_jn4_featured",
+            "title": "Adios Junta 4",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/goodbye%20jnt4.jpg",
+            "date": "28/09/2024"
         }
     }
 }
