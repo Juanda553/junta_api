@@ -2,6 +2,16 @@
    "last_update":"25/08/24 - 4:25 AM",
    "news":[
       {
+         "id":"coming_jhc",
+         "title":"La Junta Hardcore 2024",
+         "custom_img": true,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/jnhc24.jpg",
+         "desc":"Pr\u00F3ximamente en Diciembre, La Junta Hardcore, el ultimo en pie ganar\u00E1 dinero real.",
+         "date":"26/10/2024 - 7:18 a.m.",
+         "author":"Juanda",
+         "buttons": []
+      },
+      {
          "id":"goddbye_jn4",
          "title":"Cierre de la Junta 4",
          "custom_img": true,

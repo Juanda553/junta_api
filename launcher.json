@@ -8,7 +8,7 @@
         "ip": "103.195.103.52:25591",
 
         "dotMine": ".diomedes",
-        "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/2024-08-02_02.04.22.png",
+        "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/bg_jhcbeta.jpg",
 
         "colores": {
             "background1": "#181818",
@@ -23,18 +23,18 @@
         },
 
         "feature": {
-            "id": "goddbye_jn4",
+            "id": "jhc_coming",
             "title": "Pronto",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/goodbye%20jnt4.jpg",
-            "desc": "Muchas gracias por haber jugado a la Junta 4, fue divertido los 2 meses de duraci\u00F3n de este servidor, pero por la falta de actividad y moral de seguir jugando, he decido ya darle fin a La Junta 4. El servidor se cerrar\u00E1 el 28 de Septiembre a las 12:00 a.m.\r\n\r\nPor ahora esa ser\u00E1 la decisi\u00F3n, aunque recuerden que todos ustedes tambi\u00E9n tienen un gran peso en la decisi\u00F3n de cerrar o no el servidor, si quieren seguir jugando en La Junta 4, avisen y veremos si se renueva el tercer mes del servidor.",
-            "date": "28/09/2024 - 12:00 a.m."
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/jnhc24.jpg",
+            "desc": "La Junta: Hardcore es un servidor de Minecraft inspirado en Permadeath y DEDsafio. Como su nombre lo indica, es un mundo Hardcore, lo que significa que al morir quedas eliminado. Sin embargo, en este caso, cuentas con 2 vidas, y ser\u00E1s eliminado solo cuando las pierdas todas. Este evento tendr\u00E1 una duraci\u00F3n de 1 mes.\r\n\r\nEl \u00FAltimo jugador en pie recibir\u00E1 dinero real como recompensa, el cual se acumular\u00E1 con el pasar de los d\u00EDas hasta el \u00FAltimo d\u00EDa. \r\n\r\nEl servidor estar\u00E1 abierto 24\/7, pero es recomendable jugar en horarios donde haya m\u00E1s jugadores conectados. Deber\u00E1s acumular un m\u00EDnimo de 20 horas de juego en un periodo de 7 d\u00EDas. Si al cabo de 7 d\u00EDas no alcanzas este tiempo, ser\u00E1s eliminado autom\u00E1ticamente. Si por motivos personales no puedes conectarte, deber\u00E1s informar al equipo de staff, que decidir\u00E1 si eliminarte o no.\r\n\r\nHabr\u00E1 misiones diarias y semanales, as\u00ED como eventos aleatorios que modificar\u00E1n las mec\u00E1nicas del juego para aumentar la dificultad. Si no cumples las misiones, deber\u00E1s enfrentar una penitencia.\r\n\r\nCada cierto tiempo, el PvP ser\u00E1 activado y desactivado de manera temporal, creando momentos de tensi\u00F3n y estrategia entre los jugadores.\r\n\r\nLos jugadores tendr\u00E1n la posibilidad de regalar una de sus vidas a otros jugadores. Para que el intercambio sea v\u00E1lido, ambos jugadores deben estar conectados al mismo tiempo.\r\n\r\nAl final de cada semana, se celebrar\u00E1 un evento especial en el que los jugadores eliminados har\u00E1n minijuegos para revivir a 2 personas. Aquellos seleccionados volver\u00E1n al juego con 1 vida",
+            "date": "Segunda semana de Diciembre"
         },
 
         "feature_ingame": {
-            "id": "goddbye_jn4_featured",
-            "title": "Adios Junta 4",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/goodbye%20jnt4.jpg",
-            "date": "28/09/2024"
+            "id": "jhc_coming_feature",
+            "title": "Junta Hardcore 2024 en Diciembre",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/jnhc24.jpg",
+            "date": "Segunda semana Diciembre"
         }
     }
 }
