@@ -1,16 +1,16 @@
 {
     "last_update": "25/08/2024 - 3:55 a.m.",
-    "juntaName": "La Junta IV",
-    "juntaVersion": "4.4.0-1",
+    "juntaName": "Junta Hardcore 2024",
+    "juntaVersion": "SNAPSHOT_5.0",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.7-1.20.1",
     "vanillaVersion": "1.20.1",
     "indexVersion": "5",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/relase_4.0.0.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC_LITE_BETA1.zip",
  
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/update_4_3_4/update_4.4.0.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/options.txt",
 
     "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/libs_jnt4.zip",
     "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/assets_jnt4.zip",
@@ -39,165 +39,23 @@
     },
 
     "high_quality": {
-        "version": "4.0",
+        "active": false,
+        "version": "5.0",
         "shaders": "ComplementaryReimagined_r5.2.2",
-        "full_world": "https://github.com/Juanda553/junta_api/releases/download/update_4.3/Distant_Horizons_server_data.zip",
+        "full_world": "",
         "game_settings": "https://github.com/Juanda553/junta_api/releases/download/update_4_3_1/hq_opts.txt",
         "default_game_settings": "https://github.com/Juanda553/junta_api/releases/download/update_4_3_1/default_opts.txt",
 
         "files": [
-            {
-                "name": "Visuality",
-                "loc": "mods/visuality.jar",
-                "download": "https://cdn.modrinth.com/data/rI0hvYcd/versions/uhvQD6Ny/visuality-0.7.1%2B1.20.jar"
-            },
-            {
-                "name": "FreshAnimations",
-                "loc": "resourcepacks/fresh+animations.zip",
-                "download": "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
-            },
-            {
-                "name": "CaveDust",
-                "loc": "mods/cave_dust.jar",
-                "download": "https://cdn.modrinth.com/data/jawg7zT1/versions/NPD3ud2m/cave_dust-3.0.0.jar"
-            },
-            {
-                "name": "FallingLeaves",
-                "loc": "mods/falling_leaves.jar",
-                "download": "https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6%2B1.20.1.jar"
-            },
-            {
-                "name": "BubblePop",
-                "loc": "mods/bubble_pop.jar",
-                "download": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/WyRIJsP5/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar"
-            },
-            {
-                "name": "wakes",
-                "loc": "mods/wakes.jar",
-                "download": "https://cdn.modrinth.com/data/dlNu0RQY/versions/VOHf7p4D/wakes-0.2.4%2B1.20.1.jar"
-            },
-            {
-                "name": "WaveCape",
-                "loc": "mods/wave_cape.jar",
-                "download": "https://cdn.modrinth.com/data/kYuIpRLv/versions/dGGbcsvh/waveycapes-fabric-1.4.9-mc1.20.1.jar"
-            },
-            {
-                "name": "ElytraPhysics",
-                "loc": "mods/elytra_physics.jar",
-                "download": "https://cdn.modrinth.com/data/jfvCMH0K/versions/uiihaj2v/elytra_physics-fabric-2.0.jar"
-            },
-            {
-                "name": "ExplosiveEnhancement",
-                "loc": "mods/explosive.jar",
-                "download": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/LLkiKipc/explosive-enhancement-1.2.2-1.20.x.jar"
-            },
-            {
-                "name": "ShadersConfig",
-                "loc": "shaderpacks/ComplementaryReimagined_r5.2.2.zip.txt",
-                "download": "https://github.com/Juanda553/junta_api/releases/download/update_4.0.3/ComplementaryReimagined_r5.2.2.zip.txt"
-            },
-            {
-                "name": "DistantHorizons",
-                "loc": "mods/distant_horizons.jar",
-                "download": "https://cdn.modrinth.com/data/uCdwusMi/versions/HH9YLh1q/DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar"
-            }
         ]
     },
 
     "lite_mode": {
+        "active": true,
+        "version": "5.0",
         "game_settings": "https://github.com/Juanda553/junta_api/releases/download/update_4_3_1/lite_opts.txt",
         
         "files": [
-            {
-                "name": "Entity Texture Features",
-                "version": "6.2.1",
-                "loc": "mods/entity_texture_features_fabric_1.20.1-6.2.1.jar",
-                "download": "https://cdn.modrinth.com/data/BVzZfTc1/versions/iM9n0zE4/entity_texture_features_fabric_1.20.1-6.2.1.jar"
-            },
-            {
-                "name": "Entity Model Features",
-                "version": "2.2.2",
-                "loc": "mods/entity_model_features_fabric_1.20.1-2.2.jar",
-                "download": "https://cdn.modrinth.com/data/4I1XuqiY/versions/BQzSPC9r/entity_model_features_fabric_1.20.1-2.2.jar"
-            },
-            {
-                "name": "Eating Animation",
-                "version": "1.9.61",
-                "loc": "mods/eating-animation-1.20+1.9.61.jar",
-                "download": "https://cdn.modrinth.com/data/rUgZvGzi/versions/AqXSvu6M/eating-animation-1.20%2B1.9.61.jar"
-            },
-            {
-                "name": "continuity",
-                "version": "3.0.0",
-                "loc": "mods/continuity-3.0.0-beta.5+1.20.1.jar",
-                "download": "https://cdn.modrinth.com/data/1IjD5062/versions/84Zs6tNo/continuity-3.0.0-beta.5%2B1.20.1.jar"
-            },
-            {
-                "name": "Blur",
-                "version": "3.1.0",
-                "loc": "mods/blur-3.1.0.jar",
-                "download": "https://cdn.modrinth.com/data/NK39zBp2/versions/dki8Ab2D/blur-3.1.0.jar"
-            },
-            {
-                "name": "Ambient Sounds",
-                "version": "6.0.5",
-                "loc": "mods/AmbientSounds_FABRIC_v6.0.5_mc1.20.1.jar",
-                "download": "https://cdn.modrinth.com/data/fM515JnW/versions/KXKPInZV/AmbientSounds_FABRIC_v6.0.5_mc1.20.1.jar"
-            },
-            {
-                "name": "Skin 3D Layer",
-                "version": "1.6.7",
-                "loc": "mods/skinlayers3d-fabric-1.6.7-mc1.20.1.jar",
-                "download": "https://cdn.modrinth.com/data/zV5r3pPn/versions/kFPX5Wmk/skinlayers3d-fabric-1.6.7-mc1.20.1.jar"
-            },
-            {
-                "name": "Pick Up Notifier",
-                "version": "8.0.0",
-                "loc": "mods/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
-                "download": "https://cdn.modrinth.com/data/ZX66K16c/versions/sdb70E1E/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar"
-            },
-            {
-                "name": "Not Enough Animations",
-                "version": "1.7.5",
-                "loc": "mods/notenoughanimations-fabric-1.7.5-mc1.20.1.jar",
-                "download": "https://cdn.modrinth.com/data/MPCX6s5C/versions/EKnlOSzs/notenoughanimations-fabric-1.7.5-mc1.20.1.jar"
-            },
-            {
-                "name": "Mouse Tweaks",
-                "version": "2.26",
-                "loc": "mods/MouseTweaks-fabric-mc1.20-2.26.jar",
-                "download": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/mjuG4AYd/MouseTweaks-fabric-mc1.20-2.26.jar"
-            },
-            {
-                "name": "Jade",
-                "version": "11.10.2",
-                "loc": "mods/Jade-1.20-fabric-11.10.2.jar",
-                "download": "https://cdn.modrinth.com/data/nvQzSEkH/versions/XTAUVfnD/Jade-1.20-fabric-11.10.2.jar"
-            },
-            {
-                "name": "Item Highlighter",
-                "version": "1.1.9",
-                "loc": "mods/Highlighter-1.20.1-fabric-1.1.9.jar",
-                "download": "https://cdn.modrinth.com/data/cVNW5lr6/versions/vyEyvJgV/Highlighter-1.20.1-fabric-1.1.9.jar"
-            },
-            {
-                "name": "More mob variants",
-                "version": "1.3.1",
-                "loc": "mods/moremobvariants-fabric+1.20.1-1.3.1.jar",
-                "download": "https://cdn.modrinth.com/data/JiEhJ3WG/versions/o6yyhzgj/moremobvariants-fabric%2B1.20.1-1.3.1.jar"
-            },
-            {
-                "name": "Inv HUD Plus",
-                "version": "3.4.24",
-                "loc": "mods/inventoryhud.fabric.1.20.1-3.4.24.jar",
-                "download": "https://github.com/Juanda553/junta_api/releases/download/modpack_4.0/inventoryhud_3.4.24.jar"
-            },
-            {
-                "name": "Chat Heads",
-                "version": "0.12.13",
-                "loc": "mods/chat_heads-0.12.13-fabric-1.20",
-                "download": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/MdoSw2dL/chat_heads-0.12.13-fabric-1.20.jar"
-            }
         ]
     }
 }
