@@ -1,7 +1,7 @@
 {
     "last_update": "25/08/2024 - 3:55 a.m.",
     "juntaName": "Beta 3 Lite JHC24",
-    "juntaVersion": "SNAPSHOT_5.2.3",
+    "juntaVersion": "SNAPSHOT_5.2.4",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.7-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -12,7 +12,7 @@
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC_LITE_BETA3.zip",
  
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/SNAPSHOT_5.2.2.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/SNAPSHOT_5.2.4.zip",
 
     "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/libraries.zip",
     "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/assets.zip",
