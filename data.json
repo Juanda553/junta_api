@@ -21,9 +21,9 @@
     "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/libraries.zip",
     "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/assets.zip",
 
-    "changeUserNamePermission": "Thonyssj09",
+    "changeUserNamePermission": "SantiagoSGG",
     "changeUsernamePassword": "AkpdGmJmwdMhWjWV",
-    "changeUsernameNewUserName": "Hxnnykpts",
+    "changeUsernameNewUserName": "MrChanti",
 
     "partners": [
         {
@@ -33,6 +33,10 @@
         {
             "name": "Yoirikiu",
             "paid": 12000
+        },
+        {
+            "name": "MrChanti",
+            "paid": 10000
         }
     ],
  
