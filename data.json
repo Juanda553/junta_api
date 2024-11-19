@@ -41,7 +41,8 @@
     "deletedMods": [
         "mods/armourersworkshop-fabric-1.20.1-2.1.4.jar",
         "mods/jnt-1.1.2.jar",
-        "mods/jei-1.20.1-fabric-15.20.0.105.jar"
+        "mods/jei-1.20.1-fabric-15.20.0.105.jar",
+        "mods/skinlayers3d-fabric-1.6.7-mc1.20.1.jar"
     ],
 
     "staff": {
