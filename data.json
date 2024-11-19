@@ -9,11 +9,7 @@
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
     "public_play": false,
     "whitelist_priv_play": {
-        "JuanDa553": "Admin",
-        "Juanichonnn": "Perfomance Tester",
-        "and77": "Perfomance Tester",
-        "MrChanti": "Perfomance Tester",
-        "Mativer": "Perfomance Tester"
+        "JuanDa553": "Admin"
     },
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC_LITE_BETA3.zip",
