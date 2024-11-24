@@ -9,7 +9,10 @@
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
     "public_play": false,
     "whitelist_priv_play": {
-        "JuanDa553": "Admin"
+        "JuanDa553": "Admin",
+        "ImJhona": "Tester",
+        "Yoirikiu": "Tester",
+        "CamiloLofi": "Builder"
     },
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC24_BETA_4.zip",
@@ -53,10 +56,9 @@
         "JuanDa553": "Diomedes",
         "Lentinoo": "Mapache_Otaku",
         "lFaker": "Ninfaker",
-        "NeuSpirit": "Ranache",
         "TheChan18": "Sombrita",
-        "MiguelNeko": "Mapache_DJ"
-        
+        "MiguelNeko": "Mapache_DJ",
+        "Perikkito": "Staff_6"
     },
 
     "changelog": {
