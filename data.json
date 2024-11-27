@@ -1,7 +1,7 @@
 {
     "last_update": "20/11/2024 - 12:00 a.m.",
-    "juntaName": "Beta 4 Lite JHC24",
-    "juntaVersion": "SNAPSHOT_5.4.0",
+    "juntaName": "Beta 5 Lite JHC24",
+    "juntaVersion": "SNAPSHOT_5.5.0",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.7-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -14,7 +14,7 @@
         "Yoirikiu": "Beta Tester"
     },
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC24_BETA_4.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC24_BETA_5.zip",
  
     "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/SNAPSHOT_5.4.0.zip",
 
@@ -61,7 +61,7 @@
         "lFaker": "Ninfaker",
         "TheChan18": "Sombrita",
         "MiguelNeko": "Mapache_DJ",
-        "Perikkito": "Staff_6",
+        "Perikkito": "Meowpache",
 
         "ImJhona": "Tester_1",
         "Yoirikiu": "Tester_2",
