@@ -10,10 +10,8 @@
     "public_play": false,
     "whitelist_priv_play": {
         "JuanDa553": "Admin",
-        "ImJhona": "Tester",
-        "Yoirikiu": "Tester",
-        "CamiloLofi": "Builder",
-        "Hxnnykpts": "Perfomance Tester"
+        "ImJhona": "Beta Tester",
+        "Yoirikiu": "Beta Tester"
     },
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC24_BETA_4.zip",
