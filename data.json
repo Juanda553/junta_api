@@ -16,7 +16,7 @@
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC24_BETA_5.zip",
  
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/raw/refs/heads/main/packs/SNAPSHOT_5.5.3.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/SNAPSHOT_5.5.3.zip",
 
     "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/libraries.zip",
     "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/assets.zip",
