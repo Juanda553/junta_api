@@ -3,7 +3,7 @@
     "juntaName": "Beta 5 Lite JHC24",
     "juntaVersion": "SNAPSHOT_5.5.2",
     "modLoader": "fabric",
-    "modLoaderVersion": "fabric-loader-0.16.9-1.20.1",
+    "modLoaderVersion": "fabric-loader-0.16.7-1.20.1",
     "vanillaVersion": "1.20.1",
     "indexVersion": "5",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
