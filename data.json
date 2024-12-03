@@ -1,7 +1,7 @@
 {
     "last_update": "2/12/2024 - 12:00 a.m.",
     "juntaName": "Beta 5 Lite JHC24",
-    "juntaVersion": "SNAPSHOT-5.5.3",
+    "juntaVersion": "SNAPSHOT-5.5.3-1",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.7-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -55,7 +55,8 @@
         "mods/skinlayers3d-fabric-1.6.7-mc1.20.1.jar",
         "mods/jnt-1.1.3.jar",
         "mods/jnt-1.1.4.jar",
-        "mods/jnt-1.1.5.jar"
+        "mods/jnt-1.1.5.jar",
+        "mods/continuity-3.0.0-beta.5+1.20.1.jar"
     ],
 
     "staff": {
