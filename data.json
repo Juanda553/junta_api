@@ -7,12 +7,8 @@
     "vanillaVersion": "1.20.1",
     "indexVersion": "5",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
-    "public_play": false,
+    "public_play": true,
     "whitelist_priv_play": {
-        "JuanDa553": "Admin",
-        "ImJhona": "Beta Tester",
-        "Yoirikiu": "Beta Tester",
-        "elsamderpah": "Tester"
     },
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/JHC24_BETA_5.zip",
