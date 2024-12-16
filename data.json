@@ -75,18 +75,18 @@
     },
 
     "high_quality": {
-        "active": false,
+        "active": true,
         "version": "5.0",
         "shaders": "ComplementaryReimagined_r5.2.2",
         "full_world": "",
-        "game_settings": "https://github.com/Juanda553/junta_api/releases/download/update_4_3_1/hq_opts.txt",
-        "default_game_settings": "https://github.com/Juanda553/junta_api/releases/download/update_4_3_1/default_opts.txt",
+        "game_settings": "https://github.com/Juanda553/junta_api/releases/download/juntahardcore_24/hq_opts.txt",
+        "default_game_settings": "https://github.com/Juanda553/junta_api/releases/download/juntahardcore_24/default_opts.txt",
 
         "files": [
             {
-                "name": "",
-                "loc": "mods/.jar",
-                "download": ""
+                "name": "Iris",
+                "loc": "mods/Iris_1_7_5.jar",
+                "download": "https://cdn.modrinth.com/data/YL57xq9U/versions/Bi9nvICq/iris-1.7.5%2Bmc1.20.1.jar"
             }
         ]
     },
