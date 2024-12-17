@@ -2,6 +2,16 @@
    "last_update":"25/08/24 - 4:25 AM",
    "news":[
       {
+         "id":"modo_hq_v1",
+         "title":"SHADERS YA DISPONIBLES!",
+         "custom_img": true,
+         "img":"https://cdn.discordapp.com/attachments/979923398991966299/1318358163967443014/shaders_jhc.jpg?ex=67620838&is=6760b6b8&hm=6dcc35b9910f9ecd719596f28da561a9f8417ae5e4fcf45d38c104309a791043&",
+         "desc":"Ya est\u00E1 disponible la versi\u00F3n 1 del modo Alta Calidad para La junta Hardcore el cual incluye los hermosos shaders Complementary. \r\nComo activarlos?\r\nSi tienes el juego abierto ci\u00E9rralo, abre el Launcher, ve a Ajustes, y selecciona la casilla Modo Alta Calidad, le das aplicar y entras al juego normal.\r\nLuego dentro del juego ve a Ajustes y Gr\u00E1ficos, vas a Shaderspacks y selecciona los Complementary. ",
+         "date":"16/12/2024 - 7:29 p.m.",
+         "author":"Juanda",
+         "buttons": []
+      },
+      {
          "id":"coming_jhc",
          "title":"La Junta Hardcore 2024",
          "custom_img": true,
