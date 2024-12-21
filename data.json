@@ -1,7 +1,7 @@
 {
     "last_update": "2/12/2024 - 12:00 a.m.",
     "juntaName": "Junta Hardcore 2024",
-    "juntaVersion": "5.1.1",
+    "juntaVersion": "5.2",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.7-1.20.1",
     "vanillaVersion": "1.20.1",
@@ -12,7 +12,7 @@
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/juntahardcore_24/SEASON_JCH24.zip",
  
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/juntahardcore_24/UPDATE_5.1.1.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/juntahardcore_24/UPDATE_5.2.zip",
 
     "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/libraries.zip",
     "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/assets.zip",
@@ -54,7 +54,8 @@
         "mods/jnt-1.1.5.jar",
         "mods/continuity-3.0.0-beta.5+1.20.1.jar",
         "mods/juntamobs-1.0.0.jar",
-        "mods/jnt-1.1.6.jar"
+        "mods/jnt-1.1.6.jar",
+        "mods/jnt-1.2.0.jar"
     ],
 
     "staff": {
