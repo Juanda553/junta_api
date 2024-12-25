@@ -25,11 +25,11 @@
         "creditos": "- Admin Principal -\r\nJuanDa553\r\n\r\n- Programaci\u00F3n Launcher -\r\nJuanDa553\r\n\r\n- Hosting de Servidor -\r\nVultam\r\n\r\n- Creacion y gestion del servidor -\r\nJuanDa553\r\n\r\n- Creacion del cliente + mods -\r\nJuanDa553\r\n\r\n- Dise\u00F1o de interfaz -\r\nJuanDa553\r\n\r\n- Programaci\u00F3n Servidor -\r\nJuanDa553\r\nTheChan18\r\nlFaker\r\n\r\n- Construcci\u00F3n -\r\nJuanDa553\r\nlFaker\r\nMiguelNeko\r\n\r\n- Musica y efectos de sonido -\r\nMiguelNeko (SNIOXI)\r\n\r\n- Dise\u00F1o de Gameplay y mecanicas -\r\nJuanDa553\r\nNeuSpirit\r\n\r\n- Guion -\r\nJuanDa553\r\n\r\n- Modelado 3D -\r\nJuanDa553\r\n\r\n- Renders 3D -\r\nJuanDa553\r\n\r\n- Animaci\u00F3n 2D -\r\nImJhona\r\n\r\n- Dibujo - \r\nJuanDa553",
 
         "feature": {
-            "id": "raideo",
-            "title": "Servidor cerrado por el momento",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/status_img/broken.png",
-            "desc": "Actualmente, el servidor se encuentra apagado debido a que hace unas horas hemos tenido un ataque de raideo a La Junta el cual destruy\u00F3 una gran parte del mundo.\r\n\r\nEl problema ya pas\u00F3 pero estamos esperando a la respuesta del Host para poder realizar un backup y poder recuperar el mundo.\r\n\r\nPor favor, paciencia...\u00A0\u00A0",
-            "date": "24/12/2024 3:28 pm."
+            "id": "fixed_raid",
+            "title": "Servidor abierto de nuevo!",
+            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/status_img/fixed.png",
+            "desc": "El servidor est\u00E1 de nuevo en linea, se pudo recuperar el servidor sin problemas, adem\u00E1s de que he implementado nuevos sistemas de seguridad como verificaci\u00F3n que sea yo quien entre como admin, \/login \/register y mas cositas que mejor no contar para evitar nuevos hackeos.\r\n\r\nHay un peque\u00F1o problema y es que como el servidor fue grifeado, es decir el mundo y todo fue vuelto mrda, se tuvo que hacer un backup, este back up es del d\u00EDa 24 de Diciembre a la 1:30 am, des decir que todo lo que se hizo despu\u00E9s de esa fecha y hora no est\u00E1 guardado. \r\n\r\nNuevamente disculpen los problemas, son cosas que son complicadas de evitar cuando un servidor de No Premium ya que no tenemos la seguridad oficial de Mojang y ya se sale de mis manos",
+            "date": "25/12/2024 6:03 pm."
         },
 
         "feature_ingame": {
