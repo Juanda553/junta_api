@@ -2,6 +2,16 @@
    "last_update":"25/08/24 - 4:25 AM",
    "news":[
       {
+         "id":"jhc1_winner",
+         "title":"Ganador de La Junta HARDCORE",
+         "custom_img": true,
+         "img":"https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/PipeZv_Winner.jpg",
+         "desc":"Felicidades a PipeZv por haber llegado a la final y haber sido el ultimo jugador en pie despues del PvP.",
+         "date":"5/01/2025 - 8:45 p.m.",
+         "author":"Juanda",
+         "buttons": []
+      },
+      {
          "id":"last_week_jnthc",
          "title":"Ultima semana de la Junta Hardcore <3",
          "custom_img": false,
