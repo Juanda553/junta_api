@@ -14,11 +14,11 @@
             "background1": "#1F1010",
             "background2": "#2C1A1A",
             "button1": "#553333",
-            "button2": "#553333",
+            "button2": "#c034eb",
             "buttonPlay": "#A86060",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
             "font1": "#ffffff",
-            "font2": "#ffffff",
+            "font2": "#c034eb",
 			"border": "#ffffff"
         },
 
