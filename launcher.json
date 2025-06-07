@@ -3,22 +3,22 @@
     "launcher_properties": {
         "launcherVersion": "2.3.6",
         "lastRelaseDownload": "",
-        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/launcher_header_jhc24_v1.jpg",
+        "titleImage": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/launcher_header.jpg",
         "serverPrice": 160000,
-        "ip": "103.195.103.99:25688",
+        "ip": "0",
 
         "dotMine": ".diomedes",
         "game_background": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/bg_jhcbeta.jpg",
 
         "colores": {
-            "background1": "#1F1010",
-            "background2": "#2C1A1A",
-            "button1": "#553333",
-            "button2": "#c034eb",
-            "buttonPlay": "#A86060",
+            "background1": "#1C1C1C",
+            "background2": "#383838",
+            "button1": "#8F8F8F",
+            "button2": "#8F8F8",
+            "buttonPlay": "#818181",
             "fontPlay": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/playButton.png",
             "font1": "#ffffff",
-            "font2": "#c034eb",
+            "font2": "#606060",
 			"border": "#ffffff"
         },
 
