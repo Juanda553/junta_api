@@ -2,6 +2,16 @@
    "last_update":"25/08/24 - 4:25 AM",
    "news":[
       {
+    "date": "07/06/2025 - 4:11 a. m.",
+    "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/PipeZv_Winner.jpg",
+    "buttons": [],
+    "author": "~Juanda",
+    "id": "ganador_de_la_junta_hardcore!_07_06_2025",
+    "custom_img": true,
+    "title": "GANADOR DE LA JUNTA HARDCORE!",
+    "desc": "Felicidades a PipeZv por haber sido el ultimo jugador vivo en La Junta Hardcore!\n\nMuchas gracias a todos por participar <3"
+},
+      {
          "id":"jhc1_winner",
          "title":"Ganador de La Junta HARDCORE",
          "custom_img": true,
