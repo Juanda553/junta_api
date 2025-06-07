@@ -25,12 +25,12 @@
         "creditos": "- Admin Principal -\r\nJuanDa553\r\n\r\n- Programaci\u00F3n Launcher -\r\nJuanDa553\r\n\r\n- Hosting de Servidor -\r\nVultam\r\n\r\n- Creacion y gestion del servidor -\r\nJuanDa553\r\n\r\n- Creacion del cliente + mods -\r\nJuanDa553\r\n\r\n- Dise\u00F1o de interfaz -\r\nJuanDa553\r\n\r\n- Programaci\u00F3n Servidor -\r\nJuanDa553\r\nTheChan18\r\nlFaker\r\n\r\n- Construcci\u00F3n -\r\nJuanDa553\r\nlFaker\r\nMiguelNeko\r\n\r\n- Musica y efectos de sonido -\r\nMiguelNeko (SNIOXI)\r\n\r\n- Dise\u00F1o de Gameplay y mecanicas -\r\nJuanDa553\r\nNeuSpirit\r\n\r\n- Guion -\r\nJuanDa553\r\n\r\n- Modelado 3D -\r\nJuanDa553\r\n\r\n- Renders 3D -\r\nJuanDa553\r\n\r\n- Animaci\u00F3n 2D -\r\nImJhona\r\n\r\n- Dibujo - \r\nJuanDa553",
 
         "feature": {
-            "id": "thx_play_jhc",
-            "title": "Gracias por Jugar <3",
-            "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/2025-01-05_20.58.04.png",
-            "desc": "Y bueno, hoy se acab\u00F3 La Junta Hardcore, muchas gracias a todos por haber jugado, fueron unos d\u00EDas muy incre\u00EDbles para m\u00ED, como ya he dicho muchas veces este siempre ha sido mi sue\u00F1o desde ni\u00F1o, el crear un servidor para muchas personas y puedan divertirse, y por fin se ha cumplido y de una forma especial al ser un evento Hardcore. De verdad much\u00EDsimas gracias, espero que se hayan divertido mucho, y disculpen por los errores ocurridos durante el transcurso del evento, para la pr\u00F3xima ser\u00E1n corregidos. Nos vemos en el pr\u00F3ximo proyecto de La Junta! <3",
-            "date": "5/01/2025"
-        },
+    "date": "",
+    "img": "https://raw.githubusercontent.com/Juanda553/junta_api/refs/heads/main/img/PipeZv_Winner.jpg",
+    "id": "titulo_07_06_2025",
+    "title": "javax.swing.JTextField[,10,10,295x25,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=0,columnWidth=0,command=,horizontalAlignment=LEADING]",
+    "desc": "javax.swing.JTextArea[,0,0,290x135,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@5f5d2ddf,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],colums=20,columWidth=11,rows=5,rowHeight=16,word=true,wrap=true]"
+},
 
         "feature_ingame": {
             "id": "jhc_coming_feature",
