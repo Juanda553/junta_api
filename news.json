@@ -2,26 +2,6 @@
    "last_update":"25/08/24 - 4:25 AM",
    "news":[
       {
-    "date": "07/06/2025 - 4:35 a. m.",
-    "img": "fixed",
-    "buttons": [],
-    "author": "~Autor",
-    "id": "\\u00BF\\u00BF\\u00BF???_07_06_2025",
-    "custom_img": false,
-    "title": "\\u00BF\\u00BF\\u00BF???",
-    "desc": "Sigan atentos al launcher en los siguientes d\\u00EDas\\u000A\\u000A\\u00BF##.12.25?"
-},
-      {
-         "date": "07/06/2025 - 4:23 a. m.",
-         "img": "broken",
-         "buttons": [],
-         "author": "~Diomedes",
-         "id": "????_07_06_2025",
-         "custom_img": false,
-         "title": "????",
-         "desc": "Hay alguien intentando comunicarse con nosotros"
-      },
-      {
          "id":"jhc1_winner",
          "title":"Ganador de La Junta HARDCORE",
          "custom_img": true,
