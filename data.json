@@ -1,7 +1,7 @@
 {
     "last_update": "2/12/2024 - 12:00 a.m.",
-    "juntaName": "Junta Hardcore 2024",
-    "juntaVersion": "5.3",
+    "juntaName": "Junta UHC",
+    "juntaVersion": "UHC-BETA-1.0",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.16.14-1.21.1",
     "vanillaVersion": "1.21.1",
@@ -11,41 +11,23 @@
     "whitelist_priv_play": {
         "JuanDa553": "Admin",
         "NeuSpirit": "Staff",
-        "PipeZv": "Tester"
+        "PipeZv": "Tester",
+        "Insecurityman": "Tester"
     },
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/juntahardcore_24/SEASON_JCH24.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/uhc_1_beta/relase_uhc_BETAv1.zip",
  
-    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/juntahardcore_24/UPDATE_5.3.zip",
+    "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/uhc_1_beta/JUHC1_update_1.0.zip",
 
-    "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/libraries.zip",
-    "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/beta_5_0_lite/assets.zip",
+    "libsDownload": "https://github.com/Juanda553/junta_api/releases/download/uhc_1_beta/libs_JHC.zip",
+    "assetsDownload": "https://github.com/Juanda553/junta_api/releases/download/uhc_1_beta/assets_JUHC.zip",
 
     "changeUserNamePermission": "SOMTAS",
     "changeUsernamePassword": "AkpdGmJmwdMhWjWV",
     "changeUsernameNewUserName": "iSOMTAS",
 
     "partners": [
-        {
-            "name": "cierragamer",
-            "paid": 70001
-        },
-        {
-            "name": "muela_e_pica",
-            "paid": 70000
-        },
-        {
-            "name": "Yoirikiu",
-            "paid": 14900
-        },
-        {
-            "name": "MrChanti",
-            "paid": 10000
-        },
-        {
-            "name": "DanKz26",
-            "paid": 10000
-        }
+
     ],
  
     "deletedMods": [
