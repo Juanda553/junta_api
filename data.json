@@ -27,7 +27,10 @@
     "changeUsernameNewUserName": "iSOMTAS",
 
     "partners": [
-
+        {
+            "name": "JuanDa553",
+            "paid": 15000
+        }
     ],
  
     "deletedMods": [
