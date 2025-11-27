@@ -14,7 +14,14 @@
         "TheChan18": "Staff",
         "MiguelNeko": "Staff",
         "Perikkito": "Staff",
-        "NeuSpirit": "Staff"
+        "NeuSpirit": "Staff",
+
+        "KpetoM": "Tester",
+        "DarkPatoYT": "Tester",
+        "darvergero": "Tester",
+        "Monik": "Tester",
+        "PipeZv": "Tester"
+
     },
 
     "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/uhc_1_beta/RELASE_JUHC_BETAV2.zip",
