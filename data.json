@@ -3,7 +3,7 @@
     "juntaName": "Junta UHC BETA 2",
     "juntaVersion": "UHC-BETA-1.1.1",
     "modLoader": "fabric",
-    "modLoaderVersion": "fabric-loader-0.16.14-1.21.1",
+    "modLoaderVersion": "fabric-loader-0.18.1-1.21.1",
     "vanillaVersion": "1.21.1",
     "indexVersion": "5",
     "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
@@ -47,17 +47,11 @@
     ],
  
     "deletedMods": [
-        "mods/CustomPlayerModels-Fabric-1.21-0.6.22a.jar"
+        "mods/indium-1.0.36+mc1.20.1.jar"
     ],
 
     "staff": {
-        "JuanDa553": "Diomedes",
-        "lFaker": "Ninfaker",
-        "TheChan18": "Sombrita",
-        "MiguelNeko": "Mapache_DJ",
-        "Perikkito": "Meowpache",
-
-        "NeuSpirit": "Ranache"
+        "JuanDa553": "Diomedes"
     },
 
     "changelog": {
