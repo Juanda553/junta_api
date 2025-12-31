@@ -1,7 +1,7 @@
 {
-    "last_update": "2/12/2024 - 12:00 a.m.",
-    "juntaName": "Junta UHC BETA 3",
-    "juntaVersion": "UHC-BETA-1.2.0",
+    "last_update": "31/12/2025 - 4:55 a.m.",
+    "juntaName": "Junta UHC BETA 4",
+    "juntaVersion": "UHC-BETA-4-1.0.0",
     "modLoader": "fabric",
     "modLoaderVersion": "fabric-loader-0.18.1-1.21.1",
     "vanillaVersion": "1.21.1",
@@ -24,7 +24,7 @@
         "DanKz": "Tester"
     },
 
-    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_uhc_3/RELASE_JUHC_BETAV3.zip",
+    "modpackInstall": "https://github.com/Juanda553/junta_api/releases/download/beta_uhc_3/RELASE_JUHC_BETAV4.zip",
  
     "modPackUpdate": "https://github.com/Juanda553/junta_api/releases/download/beta_uhc_3/UPDATE_BETA_1.2.0_JUHC.zip",
 
