@@ -6,7 +6,7 @@
     "modLoaderVersion": "fabric-loader-0.18.1-1.21.1",
     "vanillaVersion": "1.21.1",
     "indexVersion": "5",
-    "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/junta3_icon_v2.png",
+    "icon": "https://raw.githubusercontent.com/Juanda553/junta_api/main/img/diomedesHead.png",
     "public_play": true,
     "whitelist_priv_play": {
         "JuanDa553": "Admin",
